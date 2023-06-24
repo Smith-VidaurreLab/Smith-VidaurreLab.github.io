@@ -1,4 +1,48 @@
 ---
-layout: home
-author_profile: true
+title: The Smith-Vidaurre Lab
+layout: splash
+permalink: /
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.2"
+    overlay_image: /assets/images/TAN_1993.JPG
+excerpt: "Department of Integrative Biology<br>& Department of Computational Mathematics, Science & Engineering<br>Michigan State University."
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "TKTK"
+#    anonymize_ip: false 
 ---
+
+<div>
+<h2>About the lab</h2>
+  #<div id="chartContainerR"> 
+    #<div id="chart">
+     #   {% include webweb.html webweb_json=site.data.index_web responsive=true %}
+    #    <p id="chartInfo">Larremore Lab Collaboration Graph.</p>
+   # </div>
+  #</div>
+  <div>
+  <p>The Smith-Vidaurre Lab works on the social functions and molecular mechanisms associated with social learning of vocalizations. We develop computational pipelines and new hardware and software tools to collect and analyze behavioral, acoustic, and genomic data.</p>
+
+  <p>In our functional research, we focus on how animals use socially learned vocalizations. This research is primarily driven by questions on the production side of vocal communcation, including what kinds of identity information animals encode in learned vocal signals. We use avian study systems for this research, primarily parrots and songbirds, although we also collaborate with labs studying mammalian species. The primary study species for this research are monk parakeets (<em>Myiopsitta monachus</em>) and zebra finches (<em>Taeniopygia guttata</em>). Our goals are to gain new insights into the diversity of identity information animals communicate to others through vocal signals, how rapidly identity information encoding in learned vocalizations can change, and developing / testing automated pipelines to analyze acoustic and behavioral data.</p>
+
+  <p>In our mechanistic research, we address how early social experiences may impact the specialized brain regions necessary to produce learned vocalizations. In this research, we focus parental care behavior as a critical source of variation in early social experiences. We also use avian study systems for this research, with a particular focus on the zebra finch, which has been an important model system for the neurogenetic mechanisms underlying social learning and auditory perception of vocal signals. Our goals include contributing to a broader understanding of brain regions critical for socially learned behaviors are robust or sensitive to early experiences, as well as developing new hardware and software tools to collect and analyze behavioral data. </p>
+
+  The Smith-Vidaurre Lab is led by <a href="/grace">Grace Smith-Vidaurre</a>, Assistant Professorand 1855 Professor of Data Science at Michigan State University in the <a href="https://integrativebiology.natsci.msu.edu/">Department of Integrative Biology</a> and the <a href="https://cmse.msu.edu/">Department of Computational Mathematics, Science, & Engineering</a>. 
+  </div>
+</div>
+
+<div>
+<h2>Lab News</h2>
+<ul>
+  {% for event in site.data.events %}
+  <li>
+    {% if event.date%}
+      <b>{{event.date}} - </b>
+    {% endif %}
+    {{event.description}}
+  </li>
+  {% endfor %}
+</ul>
+</div>
