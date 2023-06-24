@@ -2,17 +2,17 @@
 main:
   - title: People
     url: /people/
-  - title: Papers
-    url: /papers/
-  - title: Code & Data
-    url: /codedata/
-  - title: Slides
-    url: /slides/
-  - title: Jobs
-    url: /jobs/
-  - title: Lab Manual
-    url: /manual/
-  - title: Teaching
-    url: /teaching/
-  - title: Press
-    url: /press/
+    #- title: Papers
+    #url: /papers/
+    #- title: Code & Data
+    #url: /codedata/
+    #- title: Slides
+    #url: /slides/
+    #- title: Jobs
+    #url: /jobs/
+    #- title: Lab Manual
+    #url: /manual/
+    #- title: Teaching
+    #url: /teaching/
+    #- title: Press
+    #url: /press/
