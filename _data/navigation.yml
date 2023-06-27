@@ -1,17 +1,19 @@
 # main links
 main:
-  - title: People
-    url: /people/
-    #- title: Papers
-    #url: /papers/
+  - title: Join the Lab
+    url: /opportunities/
+    #- title: People
+    #url: /people/
+  - title: Papers
+    url: /papers/
     #- title: Code & Data
     #url: /codedata/
     #- title: Slides
     #url: /slides/
     #- title: Jobs
     #url: /jobs/
-    #- title: Lab Manual
-    #url: /manual/
+  - title: Lab Manual
+    url: /manual/
     #- title: Teaching
     #url: /teaching/
     #- title: Press
