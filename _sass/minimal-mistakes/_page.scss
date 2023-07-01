@@ -214,13 +214,14 @@ body {
     .page__title,
     .page__meta,
     .page__lead,
-    .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    .btn { /// custom page title font
+      color: #023911;
+      text-shadow: 2px 2px 8px rgba(#fff, 1);
+      font-weight: 550;
     }
 
     .page__lead {
-      max-width: $medium;
+      max-width: $large;
     }
 
     .page__title {
