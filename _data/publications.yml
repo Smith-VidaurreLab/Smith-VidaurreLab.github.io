@@ -1,6 +1,7 @@
 categories:
   - heading: "Accepted or In Press"
     pubs:
+
     - title: "Widespread cultural change in declining populations of Amazon parrots"
       authors:
       - Christine R. Dahlin
@@ -10,9 +11,9 @@ categories:
       year: 2024
       venue: Proceedings of the Royal Society B
 
-
 - heading: "Published"
     pubs:
+
     - title: "ohun: an R package for diagnosing and optimizing automatic sound event detection"
       authors:
       - Marcelo Araya-Salas
@@ -28,6 +29,7 @@ categories:
       links:
         - text: DOI
           url: http://doi.org/10.1111/2041-210X.14170
+
     - title: "Individual identity information persists in learned calls of introduced parrot populations"
       authors:
       - Grace Smith-Vidaurre
@@ -45,6 +47,7 @@ categories:
           url: https://github.com/gsvidaurre/identity-information-post-introduction
         - text: Open-access data
           url: https://figshare.com/articles/dataset/Smith-Vidaurre_et_al_2023_IdentityInformationEncoding/22582099
+
     - title: "Temporary behavioral responses to playbacks by a pest parrot and implications for management"
       authors:
       - Cesar O. Estien
@@ -60,3 +63,103 @@ categories:
       links:
         - text: DOI
           url: https://doi.org/10.26451/abc.09.04.01.2022
+
+    - title: "Individual vocal signatures show reduced complexity following invasion"
+      authors:
+      - Grace Smith-Vidaurre
+      - Valeria Pérez-Marrufo*
+      - Timothy F. Wright
+      year: 2021
+      venue: Animal Behavior
+      volumeissue: 179: 15 - 39
+      links:
+        - text: DOI
+          url: https://doi.org/10.1016/j.anbehav.2021.06.020
+        - text: Open-access code
+          url: https://github.com/gsvidaurre/simpler-signatures-post-invasion
+        - text: Open-access data
+          url: https://figshare.com/articles/dataset/Simpler_signatures_post-invasion/14811636/1
+
+    - title: "Individual signatures outweigh social group membership in contact calls of a communally nesting parrot"
+      authors:
+      - Grace Smith-Vidaurre
+      - Marcelo Araya-Salas
+      - Timothy F. Wright
+      year: 2020
+      venue: Behavioral Ecology
+      volumeissue: 31: 448-458
+      links:
+        - text: DOI
+          url: https://doi.org/10.1093/beheco/arz202
+        - text: Open-access code
+          url: https://github.com/gsvidaurre/strong-individual-signatures
+        - text: Open-access data
+          url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.w6m905qkg
+
+    - title: "Social group signatures in hummingbird displays provide evidence of co-occurrence
+    of vocal and visual learning"
+        authors:
+        - Marcelo Araya-Salas
+        - Grace Smith-Vidaurre
+        - Paulina González-Gómez
+        - Daniel Mennill
+        - Timothy F. Wright
+        year: 2019
+        venue: Proceedings of the Royal Society B
+        volumeissue: 286: 20190666
+        links:
+          - text: DOI
+            url: https://doi.org/10.1098/rspb.2019.0666
+          - text: Open-access data
+            url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.gn8qf6q
+
+    - title: "Yellow-naped Amazon (Amazona auropalliata) populations are markedly low and rapidly declining in Costa Rica and Nicaragua"
+      authors:
+      - Timothy F. Wright
+      - Thomas C. Lewis
+      - Martín Lezama-López
+      - Grace Smith-Vidaurre
+      - Christine R. Dahlin
+      year: 2018
+      venue: Bird Conservation International
+      volumeissue: 29(2): 291-307
+      links:
+        - text: DOI
+          url: https://doi.org/10.1017/S0959270918000114
+
+    - title: "Assessing the effect of sound file compression and background noise on measures of acoustic signal structure"
+      authors:
+      - Marcelo Araya-Salas
+      - Grace Smith-Vidaurre
+      - Michael Webster
+      year: 2017
+      venue: Bioacoustics
+      volumeissue: 28: 57-73
+      links:
+        - text: DOI
+          url: https://doi.org/10.1080/09524622.2017.1396498
+
+    - title: "History of nonnative Monk Parakeets in Mexico"
+      authors:
+      - Elizabeth A. Hobson
+      - Grace Smith-Vidaurre
+      - Alejandro Salinas-Melgoza
+      year: 2017
+      venue: PLOS ONE
+      volumeissue: 12(9): e0184771
+      links:
+        - text: DOI
+          url: https://doi.org/10.1371/journal.pone.0184771
+        - text: Open-access data
+          url: https://github.com/EAHobson/MX-monk-invasion
+
+    - title: "warbleR: an R package to streamline analysis of animal acoustic signals"
+      authors:
+      - Marcelo Araya-Salas
+      - Grace Smith-Vidaurre
+      year: 2017
+      venue: Methods in Ecology and Evolution
+      volumeissue: 8: 184-191
+      links:
+        - text: DOI
+          url: https://doi.org/10.1111/2041-210X.12624
