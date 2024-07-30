@@ -1,6 +1,6 @@
 # Code of Conduct
 
-All lab members, including visitors and remote researchers, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everyone in the lab. We expect members to follow these guidelines at any lab-related event.
+All lab members, including visitors and remote researchers, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensure a safe environment for everyone in the lab. We expect members to follow these guidelines at any lab-related event.
 
 The lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of lab members in any form. Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions. (However, as we work on biological questions, work-related discussions of topics that include animal reproduction are appropriate.)
 
