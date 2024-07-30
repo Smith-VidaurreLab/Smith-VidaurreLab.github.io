@@ -1,0 +1,62 @@
+categories:
+  - heading: "Accepted or In Press"
+    pubs:
+    - title: "Widespread cultural change in declining populations of Amazon parrots"
+      authors:
+      - Christine R. Dahlin
+      - Grace Smith-Vidaurre
+      - Molly K. Genes
+      - Timothy F. Wright
+      year: 2024
+      venue: Proceedings of the Royal Society B
+
+
+- heading: "Published"
+    pubs:
+    - title: "ohun: an R package for diagnosing and optimizing automatic sound event detection"
+      authors:
+      - Marcelo Araya-Salas
+      - Grace Smith-Vidaurre
+      - Gloriana Chaverri
+      - Juan C. Brenes
+      - Fabiola Chirino
+      - Jorge Elizondo-Calvo
+      - Alejandro Rico-Guevara
+      year: 2023
+      venue: Methods in Ecology and Evolution
+      volumeissue: 14(9): 2259-2271
+      links:
+        - text: DOI
+          url: http://doi.org/10.1111/2041-210X.14170
+    - title: "Individual identity information persists in learned calls of introduced parrot populations"
+      authors:
+      - Grace Smith-Vidaurre
+      - Valeria Pérez-Marrufo*
+      - Elizabeth A. Hobson
+      - Alejandro Salinas-Melgoza
+      - Timothy F. Wright
+      year: 2023
+      venue: PLOS Computational Biology
+      volumeissue: 19(7): e1011231
+      links:
+        - text: DOI
+          url: https://doi.org/10.1371/journal.pcbi.1011231
+        - text: Open-access code
+          url: https://github.com/gsvidaurre/identity-information-post-introduction
+        - text: Open-access data
+          url: https://figshare.com/articles/dataset/Smith-Vidaurre_et_al_2023_IdentityInformationEncoding/22582099
+    - title: "Temporary behavioral responses to playbacks by a pest parrot and implications for management"
+      authors:
+      - Cesar O. Estien
+      - Claire L. O'Connell
+      - Xavier Francis
+      - Grace Smith-Vidaurre
+      - Bryan M. Kluever
+      - Elizabeth A. Hobson
+      - Annemarie van der Marel
+      year: 2022
+      venue: Animal Behavior and Cognition
+      volumeissue: 9(4), 363-384
+      links:
+        - text: DOI
+          url: https://doi.org/10.26451/abc.09.04.01.2022
