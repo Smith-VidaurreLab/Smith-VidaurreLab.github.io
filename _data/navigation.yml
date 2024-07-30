@@ -1,20 +1,10 @@
 # main links
 main:
-  - title: Join the Lab
-    url: /opportunities/
-    #- title: People
-    #url: /people/
+  - title: Research Team
+    url: /team/
   - title: Papers
     url: /papers/
-    #- title: Code & Data
-    #url: /codedata/
-    #- title: Slides
-    #url: /slides/
-    #- title: Jobs
-    #url: /jobs/
   - title: Core Values
     url: /corevalues/
-    #- title: Teaching
-    #url: /teaching/
-    #- title: Press
-    #url: /press/
+  - title: Join the Lab
+    url: /opportunities/
