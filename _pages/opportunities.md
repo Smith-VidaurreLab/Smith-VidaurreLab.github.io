@@ -25,8 +25,8 @@ Please fill out the form below that matches your career stage in order to provid
 
 These forms are not the equivalent of an official job application, and are instead designed to help me assess whether you will be a good fit for the lab. If so, then I will be in touch by email to schedule a follow-up conversation.
 
-- Graduate Students: Prospective graduate students should fill out this [form] (https://docs.google.com/forms/d/e/1FAIpQLScmgjFPe7GDSIPEpwFFuOgPnFHcyeJmLi1B3qTgQe1ZI_-CEg/viewform?usp=sf_link). I’m excited to work with incoming graduate students who are interested in applying to competitive fellowships.
+- Graduate Students: Prospective graduate students should fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScmgjFPe7GDSIPEpwFFuOgPnFHcyeJmLi1B3qTgQe1ZI_-CEg/viewform?usp=sf_link). I’m excited to work with incoming graduate students who are interested in applying to competitive fellowships.
  
-- Postdoctoral Researchers: I aim to recruit a postdoctoral researcher in 2025 or 2026. However, if you are interested in applying for an independent postdoctoral fellowship to work in my lab, please fill out this [form] (https://docs.google.com/forms/d/e/1FAIpQLSdgjG2ddw_2uj-cRzWo-k1hnV1xx8i_A-EZYY9RAmT7Cibwkw/viewform?usp=sf_link).
+- Postdoctoral Researchers: I aim to recruit a postdoctoral researcher in 2025 or 2026. However, if you are interested in applying for an independent postdoctoral fellowship to work in my lab, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdgjG2ddw_2uj-cRzWo-k1hnV1xx8i_A-EZYY9RAmT7Cibwkw/viewform?usp=sf_link).
 
-- Undergraduate Students: More info is coming soon! I am interested in supporting students who want to learn more about behavioral experiments and data analysis with captive birds, as well as computational methods.
+- Undergraduate Students: Prospective undergraduate students should fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSelA-QDQE3f5-b8pZqnydE78nUmxblld3r6TchTpP7EkxufYw/viewform?usp=sf_link) so that Dr. Smith-Vidaurre can evaluate your interest and projects that are available for new students.
