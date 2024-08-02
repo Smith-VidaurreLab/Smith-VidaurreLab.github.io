@@ -109,6 +109,12 @@ Pushing yourself so hard that you regularly burn out and fail to make steady pro
 
 If you are in need of additional resources to manage stress, anxiety, or your general mental health, please reach out to the confidential counseling services offered by MSU: https://caps.msu.edu/ or the employee assistance program: https://eap.msu.edu/.
 
+#### Artificial Intelligence
+
+As a member of the lab, you need to learn how use generative artificial intelligence (AI) or other AI tools with a lot of careful thought and consideration. Lab members who want to use AI tools to scaffold their learning process must check in with Dr. Smith-Vidaurre before beginning to use these tools.
+
+Using AI tools to replace any step of your work in the scientific process is not acceptable. However, it will be acceptable to use AI tools to scaffold your learning process, as long as you communicate your use of these tools with Dr. Smith-Vidaurre and demonstrate that you are using AI generated materials as a rough starting point, and modifying the generated materials using your own creative and critical thinking. Given privacy concerns, it is also not acceptable to upload any sensitive material from the lab, including data or drafts of manuscripts or grant proposals, to any AI interfaces.
+
 #### Lab Communication
 
 The lab will primarily communicate during in person lab meetings or individual meetings (remote members will attend via Zoom), as well as over email, and through creating or responding to issue postings on GitHub. In the future, the lab may begin to use other platforms for regular lab communication.
