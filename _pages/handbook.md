@@ -2,7 +2,7 @@
 title: "Lab Handbook"
 permalink: /handbook/
 <!-- classes: "wide -->"
-toc: yes
+toc: no
 ---
 
 ## Welcome

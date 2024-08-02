@@ -1,4 +1,9 @@
-# Join the Lab!
+---
+title: "Join the Lab"
+permalink: /opportunities/
+<!-- classes: "wide -->"
+toc: no
+---
 
 I am currently recruiting 1-2 graduate students to join the lab in Fall 2025. I am also recruiting undergraduate students who can join the lab in Fall 2024 or 2025. I am looking for driven individuals from diverse backgrounds and identities who can fill these different positions in my lab.
 

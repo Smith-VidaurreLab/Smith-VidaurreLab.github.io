@@ -3,13 +3,13 @@ title: Publications
 permalink: /publications/
 classes: wide
 ---
-{% for category in site.data.papers.categories %}
+{% for category in site.data.publications.categories %}
   <h2>{{category.heading}}</h2>
-  <ol>
-  {% for paper in category.pubs %}
-    <li><strong>{{paper.title}}</strong>.
+  <ol reversed>
+  {% for pub in category.pubs %}
+    <li><strong>{{pub.title}}</strong>.
     <br>
-    {% for author in paper.authors %}
+    {% for author in pub.authors %}
       {% if forloop.last %}
         {{author}}.
     {% else %}
@@ -17,14 +17,14 @@ classes: wide
     {% endif %}
     {% endfor %}
     <br>
-    <em>{{paper.venue}}</em>,
-    {% if paper.volumeissue %}
-      {{paper.volumeissue}},
+    <em>{{pub.venue}}</em>,
+    {% if pub.volumeissue %}
+      {{pub.volumeissue}},
     {% endif %}
-    ({{paper.year}}).
-    {% if paper.links %}
+    ({{pub.year}}).
+    {% if pub.links %}
     <br>
-      {% for link in paper.links %}
+      {% for link in pub.links %}
         [<a href="{{link.url}}">{{link.text}}</a>]
       {% endfor %}
     {% endif %}
