@@ -12,13 +12,13 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "The Smith-Vidaurre Lab"
 title_separator          : "|"
-subtitle                 : "Michigan State University" # site tagline that appears below site title in masthead
+subtitle                 : "Bioacoustics and Data Science" # site tagline that appears below site title in masthead
 name                     : ""
 description              : "The Smith-Vidaurre Lab, Departments of Integrative Biolgy & Computational Mathematics, Science, & Engineering"
 url                      : "https://Smith-VidaurreLab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -152,7 +152,7 @@ footer:
       # url:
 
 # Make sure that all pages will be included
-include: ["_pages"]  
+include: ["_pages"]
 
 # Reading Files
 include:
@@ -300,5 +300,3 @@ defaults:
       layout: single
       author_profile: false
       sidebar: false
-
-

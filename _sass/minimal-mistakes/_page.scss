@@ -215,9 +215,11 @@ body {
     .page__meta,
     .page__lead,
     .btn { /// custom page title font
-      color: #023911;
+      /* color: #2a8200; */
+      color: #1d5701;
       text-shadow: 2px 2px 8px rgba(#fff, 1);
-      font-weight: 550;
+      /* text-shadow: 10px 10px 20px rgba(#fff,1); /* white with opacity */
+      font-weight: 700;
     }
 
     .page__lead {

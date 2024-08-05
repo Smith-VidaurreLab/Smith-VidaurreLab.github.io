@@ -5,5 +5,13 @@ search: false
 
 @charset "utf-8";
 
+// Custom changes must come before the @import lines in order to have them show up
+// It should be possible to add custom changes below inside of specific html calls (html{})
+$masthead-link-color: #1a730d; // all main links on the site header
+$link-color: #1a730d; // links inside of text
+//$background-color: #1a730d; // background color of entire site
+$primary-color: #1a730d; // TOC header color
+$active-color: #1a730d; // TOC header color
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

@@ -1,7 +1,7 @@
 ---
 title: "Join the Lab"
 permalink: /opportunities/
-<!-- classes: "wide -->"
+classes: wide
 toc: no
 ---
 

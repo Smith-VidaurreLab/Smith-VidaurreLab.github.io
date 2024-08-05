@@ -2,7 +2,9 @@
 title: "Lab Handbook"
 permalink: /handbook/
 <!-- classes: "wide -->"
-toc: no
+toc: yes
+toc_sticky_: true
+toc_icon: "crow"
 ---
 
 ## Welcome
@@ -21,7 +23,7 @@ Our lab is focused on three primary research areas:
 
 ### Why do we do the science that we do?
 
-The lab works on basic science that is primarily focused on animal communication and behavior. Our primary research is not applied science, which means that we do not study direct applications of animal communication and behavior for the conservation or management of animal populations in captivity or the wild. 
+The lab works on basic science that is primarily focused on animal communication and behavior. Our primary research is not applied science, which means that we do not study direct applications of animal communication and behavior for the conservation or management of animal populations in captivity or the wild.
 
 However, this does not mean that our science has less impact or is less important. Our research on animal communication and behavior has direct connections to human language, and is a compelling way for the broader public to learn more about animals, in the spirit of fostering more curiosity and respect for the natural world around us. Contributing to the public's perception of animals is an important way to contribute to how individuals and institutions change their behavior and prioritize resources for conservation purposes and community engagement with the natural world. The lab is committed to disseminating our research to the public in order to broaden the impact of our research.
 
@@ -47,7 +49,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ### Lab Meetings
 
-Postdoctoral researchers and graduate students will generally be expected to participate in all lab meetings, unless discussed otherwise with Dr. Smith-Vidaurre. Lab members working remotely are expected to join these meetings via Zoom. Undergraduate students will be encouraged to attend lab meetings as their class schedule permits, and to join other meetings as they are able. 
+Postdoctoral researchers and graduate students will generally be expected to participate in all lab meetings, unless discussed otherwise with Dr. Smith-Vidaurre. Lab members working remotely are expected to join these meetings via Zoom. Undergraduate students will be encouraged to attend lab meetings as their class schedule permits, and to join other meetings as they are able.
 
 These meetings will occur with different frequencies, with the purpose of providing regular feedback necessary for research activities, as well as professional development, and building an inclusive and equitable lab culture:
 
@@ -103,7 +105,7 @@ The standard practice in the lab will be to document your daily activities. If y
 
 #### Safety and Wellbeing
 
-Both safety and wellbeing are fundamental for doing good science. All lab members must complete required safety training through MSU in a timely manner. I expect that lab members will avoid working alone as much as possible, particularly outside of typical working hours. In the spirit of growing as scientists and conducting creative and rigorous science, I encourage all lab members to regularly maintain their wellbeing and self-care routines in their lives outside of work. Lab members must take time to recharge and invest in their personal hobbies and priorities in order to become excellent scientists. 
+Both safety and wellbeing are fundamental for doing good science. All lab members must complete required safety training through MSU in a timely manner. I expect that lab members will avoid working alone as much as possible, particularly outside of typical working hours. In the spirit of growing as scientists and conducting creative and rigorous science, I encourage all lab members to regularly maintain their wellbeing and self-care routines in their lives outside of work. Lab members must take time to recharge and invest in their personal hobbies and priorities in order to become excellent scientists.
 
 Pushing yourself so hard that you regularly burn out and fail to make steady progress towards your goals, and/or begin to disappear from regular lab activities, is not considered good practice in the lab. This behavior will not be tolerated.
 
@@ -121,7 +123,7 @@ The lab will primarily communicate during in person lab meetings or individual m
 
 #### Lab Duties
 
-Each lab member will have a rotating set of lab duties that they must complete in a timely manner. These lab duties are critically important for ensuring that the lab's work runs smoothly on a day to day basis, and each of us needs to contribute to these regular duties. Lab duties will typically be assigned at the start of the semester, and can include duties that range from maintaining the lab printer, cleaning the kitchen appliances or wet lab benches, tracking hazardous waste, chemicals, and safety training for lab members, reviewing lab members' code, among other duties. 
+Each lab member will have a rotating set of lab duties that they must complete in a timely manner. These lab duties are critically important for ensuring that the lab's work runs smoothly on a day to day basis, and each of us needs to contribute to these regular duties. Lab duties will typically be assigned at the start of the semester, and can include duties that range from maintaining the lab printer, cleaning the kitchen appliances or wet lab benches, tracking hazardous waste, chemicals, and safety training for lab members, reviewing lab members' code, among other duties.
 
 
 ### Specific Expectations for Different Team Members
@@ -150,9 +152,9 @@ Each graduate student will be responsible for tracking their graduate degree req
 
 #### Postdoctoral Researchers
 
-I am interested in supporting postdoctoral researchers in my lab through grants as well as competitive fellowships to conduct independent research. Generally, I expect postdocs supported on grants to spend their time leading writing and analysis, as well as the presentation and manuscript preparation activities necessary to communicate and publish the lab's core research. For postdocs who join the lab with independent funding, I expect you to spend time in similar ways (but on your independent research) while also picking up new skills from working in the lab. 
+I am interested in supporting postdoctoral researchers in my lab through grants as well as competitive fellowships to conduct independent research. Generally, I expect postdocs supported on grants to spend their time leading writing and analysis, as well as the presentation and manuscript preparation activities necessary to communicate and publish the lab's core research. For postdocs who join the lab with independent funding, I expect you to spend time in similar ways (but on your independent research) while also picking up new skills from working in the lab.
 
-I expect all postdocs to work closely with me to prepare manuscript drafts for the lab's core research or your independent research conducted in collaboration with the lab. We need to discuss authorship contributions and roles early and often, as well as what parts of the research that you conduct in the lab should stay in the lab after you leave, and what parts of the research you can take with you. I also expect all postdocs in the lab to contribute to mentoring lab members at different career stages, including providing peer feedback on writing products and presentations, providing guidance on data collection or analysis given your own expertise, and providing feedback related to professional development, such as discussing your own career path with the lab. When you contribute to mentoring students in the lab who prepare manuscripts for publication, we also need to discuss authorship expectations early and often. 
+I expect all postdocs to work closely with me to prepare manuscript drafts for the lab's core research or your independent research conducted in collaboration with the lab. We need to discuss authorship contributions and roles early and often, as well as what parts of the research that you conduct in the lab should stay in the lab after you leave, and what parts of the research you can take with you. I also expect all postdocs in the lab to contribute to mentoring lab members at different career stages, including providing peer feedback on writing products and presentations, providing guidance on data collection or analysis given your own expertise, and providing feedback related to professional development, such as discussing your own career path with the lab. When you contribute to mentoring students in the lab who prepare manuscripts for publication, we also need to discuss authorship expectations early and often.
 
 Postdocs joining the lab should discuss research performance and career development expectations with me early and often. For postdoctoral researchers who are interested in academic careers, I can provide constructive feedback on academic job applications and oppportunities to practice job talks. Postdocs interested in traditional academic careers are also encouraged to regularly discuss how I can support them to continue developing their independent research programs. For postdocs who are more interested in teaching-intensive careers or non-academic careers, I am committed to connecting you to resources at MUSU and/or colleagues in my network who may be available for informational interviews. I am also open to postdocs taking time to pursue workshops or training opportunities towards their career goals.
 

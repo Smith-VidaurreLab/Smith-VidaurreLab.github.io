@@ -75,7 +75,9 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: absolute;
+    /* position: absolute */
+    position: sticky !important; /* added to make the table of contents scroll with the page*/
+    float: right !important; /* added to make the table of contents scroll with the page*/
     top: 0;
     right: 0;
     width: $right-sidebar-width-narrow;
@@ -350,4 +352,3 @@
     margin-right: initial;
   }
 }
-
