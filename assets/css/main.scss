@@ -24,7 +24,9 @@ figure {
 }
 figure img {
     vertical-align: top;
-    margin: 0px;
+    // increasing the margin from 0 will push last image in the first row of 4 images down
+    // so 5 images are arranged into a row of 3 and one row of 1 
+    margin: 15px;
 }
 figure figcaption {
     //border: 1px dotted blue;
