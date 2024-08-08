@@ -10,11 +10,13 @@ toc_icon: "feather"
 
 ## Welcome
 
-Welcome to the lab handbook for the Smith-Vidaurre Lab. Dr. Grace Smith-Vidaurre is the head of the lab. At any point in time, other members of the Smith-Vidaurre Lab may include postdoctoral researchers, graduate students, research assistants or technicians, undergraduate students, and visiting scientists. This handbook is intended to be a resource for all current members of the lab, as well as prospective researchers and students who are interested in joining the lab. As you read this handbook, you'll find information about general expectations for lab members, as well as information about how the lab operates. Everyone who joins the lab is expected to commit to the general guidelines outlined here, which serve as a contract for how the research team will work together.
+Welcome to the lab handbook for the Smith-Vidaurre Lab, also known as the BIRDS lab. Dr. Grace Smith-Vidaurre is the head of the lab. At any point in time, other members of the Smith-Vidaurre Lab may include postdoctoral researchers, graduate students, research assistants or technicians, undergraduate students, and visiting scientists. This handbook is intended to be a resource for all current members of the lab, as well as prospective researchers and students who are interested in joining the lab. As you read this handbook, you'll find information about general expectations for lab members, as well as information about how the lab operates. 
+
+Everyone who joins the lab is expected to commit to the general guidelines outlined here, which serve as a contract for how the research team will work together. New lab members are expected to read this handbook during their first two weeks in the lab. This lab handbook is a work in progress. As a lab member, if you have ideas about what can be added or clarified, then talk to me (Dr. Smith-Vidaurre).
 
 ### Our Primary Research
 
-**We commit to a shared goal of conducting creative, rigorous, and accessible science**. In order to meet this goal, we are dedicated to building and maintaining an inclusive lab culture that supports scientists from diverse backgrounds with varied interests and career goals. As a lab, we commit to sustaining an anti-racist working culture and a safe space for members of the queer community.
+**We commit to a shared goal of conducting creative, rigorous, and accessible science**. In order to meet this goal, we are dedicated to building and maintaining an inclusive lab culture that supports and respects scientists from diverse backgrounds with varied interests and career goals. As a lab, we commit to sustaining an anti-racist working culture and a safe space for members of the queer community. We also commit to maintaining a lab environment that is positive, engaging, rewarding, and constructive. We value high-quality, careful science over rushed and careless work.
 
 Our lab is focused on three primary research areas:
 
@@ -26,23 +28,52 @@ Our lab is focused on three primary research areas:
 
 ### Why is Basic Research on Animal Behavior Important?
 
-The lab works on basic science that is primarily focused on animal communication and behavior. Our primary research is not applied science, which means that we do not study direct applications of animal communication and behavior for the conservation or management of animal populations in captivity or the wild.
+The lab works on basic science that is primarily focused on animal communication and behavior. Our primary research is not applied science, which means that we do not study direct applications of animal communication and behavior for the conservation or management of animal populations in captivity or the wild. However, this does not mean that our science has less impact or is less important than biomedical or more applied research. Our research on animal communication and behavior has direct connections to human language, and is a compelling way for the broader public to learn more about animals, in the spirit of fostering more curiosity and respect for the natural world around us. Contributing to the public's perception of animals is an important way to contribute to how individuals and institutions change their behavior and prioritize resources for conservation purposes and community engagement with the natural world. The lab is committed to disseminating our research to the public in order to broaden the impact of our research.
 
-However, this does not mean that our science has less impact or is less important than biomedical or more applied research. Our research on animal communication and behavior has direct connections to human language, and is a compelling way for the broader public to learn more about animals, in the spirit of fostering more curiosity and respect for the natural world around us. Contributing to the public's perception of animals is an important way to contribute to how individuals and institutions change their behavior and prioritize resources for conservation purposes and community engagement with the natural world. The lab is committed to disseminating our research to the public in order to broaden the impact of our research.
-
-Our research also creates rich opportunities for training and teaching the next generation of biologists and data scientists at different career stages. Scientists and students who work on research in our lab will leave with a deeper understanding of the scientific process, the exciting questions that drive the lab's research, and how applying data science approaches to address these biological questions facilitates creative and rigorous research. Students in the local community who take classes taught by lab members, including Dr. Smith-Vidaurre, postdoctoral researchers, and graduate students, will also receive scientific and quantitative training that is important for different careers. This ability to reach many students in the community through research training and teaching is an exciting component of traditional academic careers.
+Our research also creates opportunities for training and teaching the next generation of biologists and data scientists at different career stages. Scientists and students who work on research in our lab will leave with a deeper understanding of the scientific process, the exciting questions that drive the lab's research, and how applying data science approaches to address these biological questions facilitates creative and rigorous research. Students in the local community who take classes taught by lab members, including Dr. Smith-Vidaurre, postdoctoral researchers, and graduate students, will also receive scientific and quantitative training that is important for different careers. This ability to reach many students in the community through research training and teaching is an exciting component of traditional academic careers.
 
 ## Environment and Expectations
 
-### Lab Environment
+### Everyone
 
 In the Smith-Vidaurre Lab, we are committed to conducting high-quality science as well as helping each other to grow as scientists. In addition to creating an inclusive lab culture, our intent is also to maintain a collaborative and communicative environment for all lab members. Everyone is encouraged to ask questions about the science that we do and read about. In this lab, we expect everyone to make mistakes, and we also expect everyone to own up to and address their mistakes so as to learn from them. Another important aspect of growing as a scientist is learning how to respond when someone disagrees with you, so we also encourage lab members to challenge someone in constructive ways when you do not agree.
 
-Maintaining a collaborative interdisciplinary space is another important part of our lab's environment. The lab is part of the [Department of Integrative Biology](https://integrativebiology.natsci.msu.edu/), the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/), and the [Ecology, Evolution, and Behavior program](https://eeb.msu.edu/), and will regularly include lab members who are primarily working in biology, data science, or both areas. All lab members commit to maintaining a space that can foster interdisciplinary research and learning opportunities. This includes making space for anyone to ask basic questions, challenge ideas (not people), and discuss basic assumptions and terminology, as well as conceptual frameworks, as clearly as possible.  
+Maintaining a collaborative interdisciplinary space is another important part of our lab's environment. The lab is part of the [Department of Integrative Biology](https://integrativebiology.natsci.msu.edu/), the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/), and the [Ecology, Evolution, and Behavior program](https://eeb.msu.edu/), and will regularly include lab members who are primarily working in biology, data science, or both areas. All lab members commit to maintaining a space that can foster interdisciplinary research and learning opportunities. This includes making space for anyone to ask basic questions, challenge ideas (not people), and discuss basic assumptions and terminology, as well as conceptual frameworks, as clearly as possible.
 
-In order to build and maintain our intended lab environment, all Smith-Vidaurre Lab members, including visitors and remote researchers, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all lab members to help ensure a safe environment for everyone in the lab. We expect lab members to follow these guidelines at any lab-related event.
+### Big Picture
+
+We aim to have fun as a lab while we work on creative and rigorous science. To be able to have fun while maintaining our professional focus, we all need to stick to these general guidelines:
+
+- Work on questions that are exciting to you and that push the boundaries of your knowledge
+- Be open to constantly learning new concepts and skills from every experience during your time in the lab
+- Be careful and do not rush your work. Double and triplecheck everything that you do, especially when preparing work for publication
+- If you make a mistake, own up to it and do what you need to address it, even if you found the mistake after a paper was submitted
+- Make time to criticize your experimental design and analysis pipelines from many angles, and discuss your plans often with members of the lab and Dr. Smith-Vidaurre prior to investing time and resources into empirical data collection
+- Keep up to date on the latest research in our field, through literature databases, listservs, social media, and attending conferences
+- Be honest and do not engage in research misconduct
+- Support and respect your lab mates. This is a collaborative lab, not a competitive lab. When you help others, you can expect help in return
+- If you are struggling with anxiety, stress, and/or your mental and physical health, tell someone in the lab so that you can be connected to resources to help you through rough times
+- Hostility and tension will not be tolerated in this lab. When you encounter a situation like this, you should confront the person in question and tell Dr. Smith-Vidaurre. If you do not feel comfortable confronting someone else in the lab, you should still let Dr. Smith-Vidaurre know about the situation immediately
+- Please tell Dr. Smith-Vidaurre when you have a problem with her. If you are not comfortable telling her and the issue is serious, then you should reach out to the chair of the Department of Integrative Biology or the [Office of the University Ombudsperson at Michigan State University](https://ombud.msu.edu/) (email: ombud@msu.edu, phone: (517) 353-8830)
+- Invest in your personal life, priorities, and hobbies outside of the lab. We can only do good science when we take good care of ourselves outside of work
+
+### Smaller Picture
+
+On a day-to-day basis, the lab will run most smoothly when we keep the following in mind:
+
+- Participate in all lab and community events regularly. Undergraduate students will not be expected to attend lab meetings regularly unless their class schedule permits this
+- Stick to the lab's general working hours (see below) to help maintain a collaborative work culture
+- Be on time for individual and group meetings. It's ok to be late sometimes, but a regular habit of tardiness is a form of disrespect. Everyone's time in the lab is valuable. When you are running a group meeting, you should arrive 15 - 20 minutes beforehand to set up
+- Respect lab members' quiet work time. The lab will have workspaces that are shared offices and well as desks in a fully open space. Generally, all of these spaces are considered primarily quiet working spaces, so you should not talk loudly or play music in any of these spaces, unless we are all in a group meeting together. Do not interrupt people when they are working unless it's a real emergency
+- If you want to talk with someone or multiple people in the lab during working hours, then invite them to go on a walk, or to get a tea or coffee on or off campus. These breaks are fun ways to brainstorm with lab members and to get to know each other better, without interrupting others who want to work in a quiet space
+- Take care of yourself when you are sick, and talk to Dr. Smith-Vidaurre about plans to work from home. A mild cold can become worse and take up much more of your time if you don't take care of yourself immediately. It's also not good practice to expose your lab members to illness
+- Talk to Dr. Smith-Vidaurre immediately if you are feeling burnt out
+- If you are the last person in any of the lab spaces, make sure the door is locked and no one else is inside when you leave. If you are leaving a space without animals, then also make sure that the lights and A/C units are turned off
+- The lab needs to be kept clean and tidy, so clean up spills, crumbs, and other messes. Common areas should not be cluttered, so put equipment back where it belongs when you're done for the day
 
 ### Code of Conduct
+
+In order to build and maintain our intended lab environment, all Smith-Vidaurre Lab members, including visitors and remote researchers, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all lab members to help ensure a safe environment for everyone in the lab. We expect lab members to follow these guidelines at any lab-related event.
 
 The lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of lab members in any form. Sexual language and imagery is generally not appropriate for any lab venue, including lab meetings, presentations, or discussions. However, as we work on biological questions, work-related discussions of topics that include animal reproduction are appropriate.
 
@@ -52,51 +83,21 @@ Members asked to stop any harassing behavior are expected to comply immediately.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Dr. Grace Smith-Vidaurre immediately. If Dr. Smith-Vidaurre is the cause of your concern and you need to seek official resources, then please contact the [Office of the University Ombudsperson at Michigan State University](https://ombud.msu.edu/) (email: ombud@msu.edu, phone: (517) 353-8830). This office provides a confidential and impartial space for discussing issues or conflicts.
 
-### Lab Meetings
-
-Postdoctoral researchers, graduate students, and research assistants will generally be expected to participate in all lab meetings, unless discussed otherwise with Dr. Smith-Vidaurre. Lab members working remotely are expected to join these meetings via Zoom. Undergraduate students will be encouraged to attend lab meetings as their class schedule permits, and to join other meetings as they are able.
-
-These meetings will occur with different frequencies, with the purpose of providing regular feedback necessary for research activities, as well as professional development, and building an inclusive and equitable lab culture:
-
-- **Biweekly Lab Meetings** (1.5 hours): These meetings will typically be focused around discussing research updates from each lab member and their planned activities for the next two weeks. We will also periodically use these lab meetings to discuss research papers published by other groups, or for professional development activities for the lab.
-
-- **Monthly Diversity, Equity, and Inclusion Meetings** (1.5 hours): This monthly meeting will be dedicated to discussing how we can continue to build and sustain an anti-racist lab and a safe space for queer scientists. We will also discuss how we can contribute to making the lab, our departmental community, and the broader scientific community more diverse, equitable, inclusive, and just spaces. These meetings will be particularly focused on broadening lab members' understanding of how we can take action against systemic oppression in academia, and encouraging lab members to engage in their own process of self-education about the many barriers associated with different forms of oppression.
-
-- **Weekly Writing Group** (2 hours): We will meet each week for focused writing time as a team. Each lab member will bring one or multiple writing projects* that require steady progress. At the beginning of each meeting, we will each state the project that we are working on and our goal for the current writing session (up to 15 minutes). Everyone will work on their writing project(s) without interrupting others for ~1.5 hours, and then we will catch up about writing progress and obstacles in the last 15 minutes. Depending on the lab's preferences, visitors from other labs at MSU may be invited to join us for this writing group.
-
-- **Weekly Science Afternoon** (1 hour, Fridays): Each week we will dedicate time to a casual meeting to work on projects or activities as a team. These meetings can include brainstorming new collaborative projects, debugging code, discussing a statistical analysis that someone wants to learn, or providing feedback on lab members' figures in preparation for publication, among other topics. Visitors from other labs at MSU or other institutions can be invited to join us.  
-
-- **Practice Presentations** (scheduled as needed): Practicing presentations for conferences, invited seminars, or academic job interviews is critically important for growing as a scientist. Practicing your presentation in front of your lab members is an excellent way to receive invaluable constructive feedback that can help improve the content and delivery of your presentation. All lab members who present at conferences are expected to schedule practice presentations with the lab at least a week prior to the conference itself, and to incorporate the lab's feedback into the final version of their presentation. Postdoctoral researchers who want constructive feedback on their job talk(s) are encouraged to practice their talk with the lab as well. As a general rule of thumb, we will allocate 45 minutes of feedback for presentations that are 15 - 50 minutes, and 30 minutes of feedback for presentations under 15 minutes (posters and lightning talks).
-
-\* *Writing projects will vary across members of the lab. Depending on your career stage, a writing project could consist of a manuscript, a grant proposal, a thesis proposal, standard operating protocols for the lab, or documentation of open-access software. For all lab members, writing tasks for these weekly writing groups will vary depending on the type and stage of your project. For instance, if you are contributing to a collaborative manuscript in the lab, a good writing task could be to write up the methods that you used to collect or analyze data, or to write a first draft of the introduction. If you are not contributing to a manuscript yet, you can instead work on writing up a standardized operating protocol for the experiments or tasks you are working on in the lab, or reading a paper and writing a short summary of the paper in an annotated bibliography.*
-
-### Smith-Vidaurre Mentoring Approach (or what you can expect from me)
-
-My approach to mentorship is to consider each member of the lab a unique individual with their own learning trajectory and career goals. Everyone in the lab will have direct access to mentorship from me in individual or group meetings, but the frequency of these meetings will depend on your career stage. All lab members will also have opportunities to receive mentorship from and provide mentorship to other researchers in the lab.
-
-Generally, I aim to meet with postdoctoral researchers, graduate students, and research assistants once a week for individual meetings. These meetings will be 30 minutes long to facilitate a quick discussion of research progress and obstacles as well as short and long-term goals. Individual meeting times can be shortened or extended depending on a researcher's needs and my own availability. Undergraduate lab members will work directly with a postdoctoral, graduate student, research assistant, or senior undergraduate mentor. Undergraduate students will meet weekly with their direct mentor. I will meet with lab mentors and their undergraduate mentee(s) at least 3 times each semester for additional research supervision.
-
-Lab members can expect mentorship from me on their science, ranging from brainstorming of new ideas to preparing and submitting manuscripts for publication in peer-reviewed journals. The mentorship that I will provide lab members will also include constructive feedback on grant proposals and presentations, and regular discussion about how I can support you to achieve your career goals. My goal is to support lab members who are interested in diverse careers inside or outside of academia. As I have more experience with academic careers, I can provide direct feedback and tips for lab members interested in traditional and alternative academic careers. However, I aim to also connect lab members to colleagues in my network with non-academic jobs, and can also support lab members pursue internal and external opportunities to learn more about non-academic jobs.
-
-I will work with each member of the lab to set up short and long-term research and career development goals at the beginning of each semester.
-
-#### Letters of Recommendation
-
-All members of the lab who are pursuing the next steps of their career should use this [form](https://docs.google.com/forms/d/e/1FAIpQLSdWotlHg55X_p-6h8bIoqtsvSqlOCiFwW0QOJXdorvza_uR7A/viewform?usp=sf_link) to request letters of recommendation from me.
-
-Given my limited time as a faculty member, I cannot write recommendation letters less than 2 weeks before a given letter is due. Please ensure that you request letters of recommendation well ahead of this 2 week deadline. The form above is designed to collect the information that I will need to write a strong letter of recommendation. After filling out this form the first time, there are several questions that you do not need to fill out for subsequent requests (for instance, information about when we first met).
-
-My ability to write a strong recommendation letter is contingent on your performance, progress, and behavior in the lab. If I feel that I cannot write you a strong letter, then I reserve the right to decline to write you a letter at all.
-
 ### General Research Expectations
 
 In the Smith-Vidaurre Lab, we engage in research that relies on captive animal experiments and animal care, wet lab work, and computational approaches to collect, process, and analyze data. I expect all lab members to fully engage in learning the approaches and methods necessary to conduct research in the lab, ranging from caring for captive songbirds on campus, to assembling and deploying electronics technology for data collection, to learning basic molecular biology protocols as well as basic programming and data analysis skills.
+
+#### Scientific Integrity
+
+We hold everyone in the lab to the highest degree of scientific integrity. Research misconduct in any form, including data falsification and fabrication, as well as plagiarism, will not be tolerated. Please see MSU's [Research Integrity Office](https://rio.msu.edu/) for more resources, including trainings that graduate students and others in the lab will be encouraged and/or required to complete.
+
+Research misconduct often arises from the pressure to be productive and successful in academia. If this pressure is so acute that you feel it is impacting your progress and mental health, then you should reach out to Dr. Smith-Vidaurre to talk more about strategies to proceed. Everyone in the lab faces this pressure, as well as our colleagues in the broader academic community. There is absolutely no excuse to engage in research misconduct. Research misconduct puts your career at great risk and is a massive disservice to yourself as well as our entire field.
 
 #### Computing Skills
 
 As the lab works on computational analyses of different types of behavioral, molecular, or simulated datasets, everyone in the lab will be expected to become competent in computing skills that include R, bash, Python, and GitHub for version control. For instance, common tasks that you should be able to accomplish include installing R and using RStudio to write/save scripts, as well as accessing directories and files from a bash shell. A common pipeline that you should use regularly is to use GitHub (through Git on the command line or RStudio, or through GitHub Desktop) to synchronize local and remote repositories of your different coding and writing projects.
 
-#### Lab Notebooks
+#### Lab Notebooks and Reproducible Research
 
 **Lab notebooks are another requirement for all lab members**. Everyone who is working on any research project in the lab is required to maintain an electronic lab notebook that they update in *real time*. See this tutorial for how to create an [electronic lab notebook](https://sr320.github.io/course-fish521-2023/lectures/week_07/lec_06b_websites.html) on GitHub.
 
@@ -108,7 +109,9 @@ All lab notebooks need to have an immediate backup, which you can create by upda
 
 Random checks of lab notebooks will occur during the first 2-3 months that someone is new to the lab, and possibly beyond. A PDF file of your lab notebook must be emailed to Dr. Smith-Vidaurre immediately prior to biweekly lab meetings. Anyone who does not follow these general expectations for maintaining a lab notebook will receive a warning and then can be removed from working on a project if they continue to fail to meet these expectations.
 
-##### Standard Operating Protocols
+Keeping a detailed lab notebook is critically important for reproducibility in research. In other words, if someone followed all of your steps and analyzed your very same dataset, they should obtain the very same result(s). Reproducibility is also important for replicability, which is in turn a critical part of science in general. Replicability means that if someone addressed the same research question with a similar experimental and analytical design, but with a different dataset, they should be able to obtain generally similar results. Both reproducibility and replicability are important for scientific progress, and we aim to produce research that is reproducible and replicable.
+
+#### Standard Operating Protocols
 
 As a lab, we will develop standard operating protocols for animal care, wet lab, data processing, and possibly data analysis that all lab members can access via GitHub. Once you have written a protocol for an experiment or procedure, you can link to this protocol in all subsequent electronic lab notebook entries and note whether/which modifications you have made while running the protocol. Animal care protocols will require additional documentation and logging that lab members must keep up with.
 
@@ -138,6 +141,24 @@ As a member of the lab, you need to learn how use generative artificial intellig
 
 Using AI tools to replace any step of your work in the scientific process is not acceptable. However, it will be acceptable to use AI tools to support your learning process, as long as you communicate your use of these tools with Dr. Smith-Vidaurre. You must also demonstrate that you are using AI generated materials as a rough starting point, and that you are modifying the generated materials using your own creative and critical thinking. Given privacy concerns, it is also not acceptable to upload any sensitive material from the lab, including data or drafts of manuscripts or grant proposals, to any AI interfaces.
 
+#### Deadlines
+
+Deadlines are important for getting things done in an organized way in academia. All lab members should tell Dr. Smith-Vidaurre immediately about a deadline related to their research, and should check in with me periodically as the deadline draws nearer. You are not bugging me when you email me reminders - in fact, I prefer receiving reminders about upcoming deadlines. Ideally, you will email me 1 month, 2 weeks, 1 week, 2 days, and 1 day before a deadline.
+
+When you are working on something with a hard deadline that requires feedback on my end, like helping you polish a (short) writing product or job application materials, you should let me know at least 1 month beforehand so that I can give you multiple rounds of feedback. When you are working towards a deadline that doesn't require a lot of work (reading a polished abstract draft, signing paperwork), let me know at least 1 week ahead of time.
+
+For research products with deadlines that will generally be internal (manuscript submissions), you should send outlines and drafts to Dr. Smith-Vidaurre as soon as you finish them. You should also follow up if I haven't responded within a general timeline for my feedback in 1 week.
+
+#### Authorship 
+
+We follow the [MSU Guidelines on Authorship](https://research.msu.edu/michigan-state-university-guidelines-authorship) for scientific publications in peer-reviewed journals. Generally, the postdocor student who is leading the research can expect to be the first author on the manuscript that will be prepared for submission to a journal. When starting a new project, we need to talk about authorship expectations, contributions, and order as early and as often as possible. This rule also applies when we are working on manuscripts in collaboration with other labs.
+
+Lab members who have helped with research that is being prepared for publication may be added to the author list after discussion with all parties involved in the preparation of the manuscript. If a postdoc or student starts a project but then hands it off to another lab member, they will likely be a second or middle-author on the resulting work, or possibly a co-first author. When a student or postdoc works on a project but does not complete analysis or manuscript writing within 3 years following data collection, Dr. Smith-Vidaurre can reassign the project to another lab member to facilitate publishing in a timely manner. The student or postdoc who originally lead the project will still be a co-author, but their authorship position will need to be discussed carefully.
+
+Lab members who have contributed to research and are a co-author on a manuscript must remain responsive to email and complete their remaining authorship responsibilities in a timely manner throughout the process of manuscript preparation, submission, revision, and acceptance in order to retain their authorship status. Generally, co-authors must respond within 2 weeks to emails from the lead author or others in the group. The lead author will be responsible for setting deadlines for responses and task completion, and following up with co-authors for accountability, with support from Dr. Smith-Vidaurre.
+
+You are always welcome to discuss authorship expectations with Dr. Smith-Vidaurre, especially if you are unsure of your authorship status or position, or if you would like to discuss changes. 
+
 #### Working Hours
 
 I expect lab members to generally work from 9am - 5pm on business days, unless discussed otherwise. We are working on research together as a team, and it is much easier to build and maintain a collaborative working environment, and to disseminate knowledge, when lab members engage in research at similar times of day. For remote researchers, this means that you will need to be available and respond in a timely manner over the different platforms that we use for lab communication (email, GitHub, Zoom, possibly others). For researchers working in person, you will have the flexibility to work from home 1 day each week, depending on whether your current project allows for remote work, as well as your general productivity in the lab. This general rule can be revisited with Dr. Smith-Vidaurre as lab members progress.
@@ -147,6 +168,24 @@ I expect lab members to generally work from 9am - 5pm on business days, unless d
 *Weekend Work Expectations*: Generally, I expect lab members to take weekends to recharge and rest, and I do not expect everyone to regularly work through the weekend. The exception will be rotating animal care duties for researchers working with songbirds on campus, since animal care cannot pause over the weekend. Animal care duties will be spread across lab members working in person. Lab members who are helping with weekend animal care should discuss their weekly work schedule with Dr. Smith-Vidaurre to ensure that you are not getting burnt out. Another exception to working on weekends are times when we need to push to finish data analysis, writing, or other tasks in order to meet important and/or urgent deadlines for any one project. If you feel that you are pushing to complete tasks for a project over the weekend too often, please discuss this with Dr. Smith-Vidaurre immediately.
 
 *Flexibility and Trust*: I need to be able to trust researchers in my lab in order to be flexible with my expectations around working hours, productivity, and time management. This trust is something that can be earned as we work together, and requires a dedication to mutual respect and effective communication.
+
+#### Lab Meetings
+
+Postdoctoral researchers, graduate students, and research assistants will generally be expected to participate in all lab meetings, unless discussed otherwise with Dr. Smith-Vidaurre. Lab members working remotely are expected to join these meetings via Zoom. Undergraduate students will be encouraged to attend lab meetings as their class schedule permits, and to join other meetings as they are able.
+
+These meetings will occur with different frequencies, with the purpose of providing regular feedback necessary for research activities, as well as professional development, and building an inclusive and equitable lab culture:
+
+- **Biweekly Lab Meetings** (1.5 hours): These meetings will typically be focused around discussing research updates from each lab member and their planned activities for the next two weeks. We will also periodically use these lab meetings to discuss research papers published by other groups, or for professional development activities for the lab.
+
+- **Monthly Diversity, Equity, and Inclusion Meetings** (1.5 hours): This monthly meeting will be dedicated to discussing how we can continue to build and sustain an anti-racist lab and a safe space for queer scientists. We will also discuss how we can contribute to making the lab, our departmental community, and the broader scientific community more diverse, equitable, inclusive, and just spaces. These meetings will be particularly focused on broadening lab members' understanding of how we can take action against systemic oppression in academia, and encouraging lab members to engage in their own process of self-education about the many barriers associated with different forms of oppression.
+
+- **Weekly Writing Group** (2 hours): We will meet each week for focused writing time as a team. Each lab member will bring one or multiple writing projects* that require steady progress. At the beginning of each meeting, we will each state the project that we are working on and our goal for the current writing session (up to 15 minutes). Everyone will work on their writing project(s) without interrupting others for ~1.5 hours, and then we will catch up about writing progress and obstacles in the last 15 minutes. Depending on the lab's preferences, visitors from other labs at MSU may be invited to join us for this writing group.
+
+- **Weekly Science Afternoon** (1 hour, Fridays): Each week we will dedicate time to a casual meeting to work on projects or activities as a team. These meetings can include brainstorming new collaborative projects, debugging code, discussing a statistical analysis that someone wants to learn, or providing feedback on lab members' figures in preparation for publication, among other topics. Visitors from other labs at MSU or other institutions can be invited to join us.  
+
+- **Practice Presentations** (scheduled as needed): Practicing presentations for conferences, invited seminars, or academic job interviews is critically important for growing as a scientist. Practicing your presentation in front of your lab members is an excellent way to receive invaluable constructive feedback that can help improve the content and delivery of your presentation. All lab members who present at conferences are expected to schedule practice presentations with the lab at least a week prior to the conference itself, and to incorporate the lab's feedback into the final version of their presentation. Postdoctoral researchers who want constructive feedback on their job talk(s) are encouraged to practice their talk with the lab as well. As a general rule of thumb, we will allocate 45 minutes of feedback for presentations that are 15 - 50 minutes, and 30 minutes of feedback for presentations under 15 minutes (posters and lightning talks).
+
+\* *Writing projects will vary across members of the lab. Depending on your career stage, a writing project could consist of a manuscript, a grant proposal, a thesis proposal, standard operating protocols for the lab, or documentation of open-access software. For all lab members, writing tasks for these weekly writing groups will vary depending on the type and stage of your project. For instance, if you are contributing to a collaborative manuscript in the lab, a good writing task could be to write up the methods that you used to collect or analyze data, or to write a first draft of the introduction. If you are not contributing to a manuscript yet, you can instead work on writing up a standardized operating protocol for the experiments or tasks you are working on in the lab, or reading a paper and writing a short summary of the paper in an annotated bibliography.*
 
 #### Project Management
 
@@ -194,9 +233,33 @@ The lab will primarily communicate during in person lab meetings or individual m
 
 Each lab member will have a rotating set of lab duties that they must complete in a timely manner. These lab duties are critically important for ensuring that the lab's work runs smoothly on a day to day basis, and each of us needs to contribute to these regular duties. Lab duties will typically be assigned at the start of the semester, and can include duties that range from maintaining the lab printer, cleaning the kitchen appliances or wet lab benches, tracking hazardous waste, chemicals, and safety training for lab members, reviewing lab members' code, among other duties.
 
+#### Photos and Videos
+
+Taking photos or video recordings of lab members can only be done with someone's knowledge and consent. Everyone taking photos or videos of the lab must obtain consent beforehand, and again prior to sharing photos or videos more widely (such as on social media) in order to respect everyone's comfort and privacy.
+
+We work with animals in captivity and sometimes in the wild. Photos and videos of the animals that we use for research, or the spaces where this research is conducted, cannot be shared with anyone outside of the lab or posted on social media without checking in with Dr. Smith-Vidaurre beforehand.
+
 ## Specific Expectations for Different Team Members
 
-#### Graduate Students
+### Principal Investigator (or what you can expect from me)
+
+My approach to mentorship is to consider each member of the lab a unique individual with their own learning trajectory and career goals. Everyone in the lab will have direct access to mentorship from me in individual or group meetings, but the frequency of these meetings will depend on your career stage. All lab members will also have opportunities to receive mentorship from and provide mentorship to other researchers in the lab.
+
+Generally, I aim to meet with postdoctoral researchers, graduate students, and research assistants once a week for individual meetings. These meetings will be 30 minutes long to facilitate a quick discussion of research progress and obstacles as well as short and long-term goals. Individual meeting times can be shortened or extended depending on a researcher's needs and my own availability. Undergraduate lab members will work directly with a postdoctoral, graduate student, research assistant, or senior undergraduate mentor. Undergraduate students will meet weekly with their direct mentor. I will meet with lab mentors and their undergraduate mentee(s) at least 3 times each semester for additional research supervision.
+
+Lab members can expect mentorship from me on their science, ranging from brainstorming of new ideas to preparing and submitting manuscripts for publication in peer-reviewed journals. The mentorship that I will provide lab members will also include constructive feedback on grant proposals and presentations, and regular discussion about how I can support you to achieve your career goals. My goal is to support lab members who are interested in diverse careers inside or outside of academia. As I have more experience with academic careers, I can provide direct feedback and tips for lab members interested in traditional and alternative academic careers. However, I aim to also connect lab members to colleagues in my network with non-academic jobs, and can also support lab members pursue internal and external opportunities to learn more about non-academic jobs.
+
+I will work with each member of the lab to set up short and long-term research and career development goals at the beginning of each semester.
+
+#### Letters of Recommendation
+
+All members of the lab who are pursuing the next steps of their career should use this [form](https://docs.google.com/forms/d/e/1FAIpQLSdWotlHg55X_p-6h8bIoqtsvSqlOCiFwW0QOJXdorvza_uR7A/viewform?usp=sf_link) to request letters of recommendation from me.
+
+Given my limited time as a faculty member, I cannot write recommendation letters less than 2 weeks before a given letter is due. Please ensure that you request letters of recommendation well ahead of this 2 week deadline. The form above is designed to collect the information that I will need to write a strong letter of recommendation. After filling out this form the first time, there are several questions that you do not need to fill out for subsequent requests (for instance, information about when we first met).
+
+My ability to write a strong recommendation letter is contingent on your performance, progress, and behavior in the lab. If I feel that I cannot write you a strong letter, then I reserve the right to decline to write you a letter at all.
+
+### Graduate Students
 
 Gradudate school is hard for many different reasons, and it is hard in a different way for each person. Completing a graduate degree can also be very rewarding, but you need to have your own motivations very clear in order to overcome the difficult periods. I expect that graduate students joining the lab have their own clear motivations for wanting to complete a graduate degree, beyond external expectations from your personal and professional connections. Completing a graduate degree is something that you commit to for yourself, and is not something that you undertake in order to satisfy another person (including me).
 
@@ -218,7 +281,7 @@ Your performance as a graduate student is tied to how quickly and how well you l
 
 Each graduate student will be responsible for tracking their graduate degree requirements and regularly discussing their class and research credit plan with Dr. Smith-Vidaurre. Generally, newer graduate students will have a heavier class load than graduate students further along in their careers, who will primarily sign up for dissertation research credits.
 
-#### Postdoctoral Researchers
+### Postdoctoral Researchers
 
 I am interested in supporting postdoctoral researchers in my lab through grants as well as competitive fellowships to conduct independent research. Generally, I expect postdocs supported on grants to spend their time leading writing and data analysis, as well as preparing presentations and manuscripts to communicate and publish the lab's core research. For postdocs who join the lab with independent funding, I expect you to spend time in similar ways (but on your independent research) while also picking up new skills from working in the lab.
 
@@ -228,21 +291,29 @@ I also expect all postdocs in the lab to contribute to mentoring lab members at 
 
 Postdocs joining the lab should discuss research performance and career development expectations with me as early and as often as possible. For postdoctoral researchers who are interested in academic careers, I can provide constructive feedback on academic job applications and oppportunities to practice job talks. Postdocs interested in traditional academic careers are also encouraged to regularly discuss how I can support them to continue developing their independent research programs. For postdocs who are more interested in teaching-intensive careers or non-academic careers, I am committed to connecting you to resources at MUSU and/or colleagues in my network who may be available for informational interviews. I am also open to postdocs taking time to pursue workshops or training opportunities that are important for their career goals.
 
-#### Research Assistants
+### Research Assistants
 
 Research assistants in the lab will be expected to lead and/or contribute to core research projects in the lab, as well as to help the lab set up equipment, computational pipelines, standard operating protocols, and regular animal care duties to support new lines of research. Research assistants will be expected to mentor and work with undergraduate students who are engaged in research and/or animal care, and to help graduate students who are leading their own research projects.
 
 I encourage research assistants to regularly discuss their career goals with me so that I can connect you to opportunities for additional career development. Research assistants interested in graduate programs are encouraged to discuss their interests with me, so that we can talk about the possibility of joining the lab as a graduate student, or identifying potential graduate mentors and applying to graduate programs at other institutions.
 
-#### Undergraduate Students
+### Undergraduate Students
 
-Undergraduate students can join the lab to work on research projects or animal care under the supervision of a research assistant or a graduate student. Undergraduate students who join the lab must be motivated and have sufficient time in their schedules to commit to at least 9 hours of work in the lab each week for at least a year. Undergraduates will be required to read and sign a contract prior to beginning their work in the lab.  
+Undergraduate students can join the lab to work on research projects or animal care under the supervision of a research assistant or a graduate student. Undergraduate students who join the lab must be motivated, have sufficient time in their schedules to commit to at least 9 hours of work in the lab each week for at least a year, and must read and sign a contract prior to beginning their work in the lab.  
 
 Undergraduate students interested in graduate programs are encouraged to discuss their interests with their direct supervisor and Dr. Smith-Vidaurre. We can discuss the possibility of joining the lab as a graduate student, or identifying potential graduate mentors and applying to graduate programs at other institutions.
 
 
 **Lab Handbook Resources:**
 
-The [Larremore Lab](https://larremorelab.github.io/manual/) and [Roberts Lab](https://robertslab.github.io/resources/) handbooks were useful guides for structure and content, as well as lab handbook resources made available by [Tendler et al 2022](https://zenodo.org/records/7419211). Some of the mentoring guidelines and expectations above were inspired by the University of Michigan Rackham Graduate School [resources on mentoring](https://rackham.umich.edu/faculty-and-staff/facilitating-academic-success/mentoring-advising/). The code of conduct above was modified from [Titus Brown's Code of Conduct](http://ivory.idyll.org/lab/coc.html).
+The [Larremore Lab](https://larremorelab.github.io/manual/), [Roberts Lab](https://robertslab.github.io/resources/), and [Aly Lab](https://github.com/alylab/labmanual) handbooks were useful guides for structure and content, as well as lab handbook resources made available by [Tendler et al 2022](https://zenodo.org/records/7419211). Some of the mentoring guidelines and expectations above were inspired by the University of Michigan Rackham Graduate School [resources on mentoring](https://rackham.umich.edu/faculty-and-staff/facilitating-academic-success/mentoring-advising/). The code of conduct above was modified from [Titus Brown's Code of Conduct](http://ivory.idyll.org/lab/coc.html).
+
+**References**
+
+Aly Lab Manual. 2024. https://github.com/alylab/labmanual
+
+Larremore Lab Manual. 2024. https://larremorelab.github.io/manual/
+
+Roberts Lab Manual. 2024. https://robertslab.github.io/resources/
 
 Original source and credit for Code of Conduct: http://2012.jsconf.us/#/about & The Ada Initiative. Please help by translating or improving: http://github.com/leftlogic/confcodeofconduct.com. This work is licensed under a Creative Commons Attribution 3.0 Unported License.
