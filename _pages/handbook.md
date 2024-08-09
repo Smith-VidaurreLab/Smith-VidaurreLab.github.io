@@ -307,13 +307,17 @@ Undergraduate students can join the lab to work on research projects or animal c
 
 Undergraduate students interested in graduate programs are encouraged to discuss their interests with their direct supervisor and Dr. Smith-Vidaurre. We can discuss the possibility of joining the lab as a graduate student, or identifying potential graduate mentors and applying to graduate programs at other institutions.
 
-## Citations and Resources
+### Handbook Resources
+
+**Creative Commons License**
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://Smith-VidaurreLab.github.io/handbook">The Smith-Vidaurre (BIRDS) Lab Handbook</a> by <span property="cc:attributionName">Dr. Grace Smith-Vidaurre</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a></p>
 
 **Citation**
 
 Please cite this lab handbook if you found it useful for your own lab:
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://Smith-VidaurreLab.github.io/handbook">The Smith-Vidaurre (BIRDS) Lab Handbook</a> by <span property="cc:attributionName">Dr. Grace Smith-Vidaurre</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+Smith-Vidaurre (BIRDS) Lab Manual. 2024. https://Smith-VidaurreLab.github.io/handbook/. Licensed under a [Creative Commons Attribution - Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
 **Lab Handbook Resources:**
