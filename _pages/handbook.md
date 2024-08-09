@@ -4,7 +4,7 @@ permalink: /handbook/
 <!-- classes: "wide -->"
 toc: yes
 toc_label: "Table of Contents"
-toc_sticky_: true
+toc_sticky: true
 toc_icon: "feather"
 ---
 
