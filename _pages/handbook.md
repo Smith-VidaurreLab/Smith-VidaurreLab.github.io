@@ -10,7 +10,7 @@ toc_icon: "feather"
 
 ## Welcome
 
-Welcome to the lab handbook for the Smith-Vidaurre Lab. Dr. Grace Smith-Vidaurre is the head of the lab. At any point in time, other members of the Smith-Vidaurre Lab may include postdoctoral researchers, graduate students, research assistants or technicians, undergraduate students, and visiting scientists. This handbook is intended to be a resource for all current members of the lab, as well as prospective researchers and students who are interested in joining the lab. As you read this handbook, you'll find information about general expectations for lab members, as well as information about how the lab operates. Everyone who joins the lab is expected to commit to the general guidelines outlined here, which serve as a contract for how the research team will work together.
+Welcome to the lab handbook for the Smith-Vidaurre Lab, or the Behavior IntegRated with Data Science (BIRDS) Lab. Dr. Grace Smith-Vidaurre is the head of the lab. At any point in time, other members of the Smith-Vidaurre (BIRDS) Lab may include postdoctoral researchers, graduate students, research assistants or technicians, undergraduate students, and visiting scientists. This handbook is intended to be a resource for all current members of the lab, as well as prospective researchers and students who are interested in joining the lab. As you read this handbook, you'll find information about general expectations for lab members, as well as information about how the lab operates. Everyone who joins the lab is expected to commit to the general guidelines outlined here, which serve as a contract for how the research team will work together.
 
 ### Our Primary Research
 
@@ -36,11 +36,11 @@ Our research also creates rich opportunities for training and teaching the next 
 
 ### Lab Environment
 
-In the Smith-Vidaurre Lab, we are committed to conducting high-quality science as well as helping each other to grow as scientists. In addition to creating an inclusive lab culture, our intent is also to maintain a collaborative and communicative environment for all lab members. Everyone is encouraged to ask questions about the science that we do and read about. In this lab, we expect everyone to make mistakes, and we also expect everyone to own up to and address their mistakes so as to learn from them. Another important aspect of growing as a scientist is learning how to respond when someone disagrees with you, so we also encourage lab members to challenge someone in constructive ways when you do not agree.
+In the Smith-Vidaurre (BIRDS) Lab, we are committed to conducting high-quality science as well as helping each other to grow as scientists. In addition to creating an inclusive lab culture, our intent is also to maintain a collaborative and communicative environment for all lab members. Everyone is encouraged to ask questions about the science that we do and read about. In this lab, we expect everyone to make mistakes, and we also expect everyone to own up to and address their mistakes so as to learn from them. Another important aspect of growing as a scientist is learning how to respond when someone disagrees with you, so we also encourage lab members to challenge someone in constructive ways when you do not agree.
 
 Maintaining a collaborative interdisciplinary space is another important part of our lab's environment. The lab is part of the [Department of Integrative Biology](https://integrativebiology.natsci.msu.edu/), the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/), and the [Ecology, Evolution, and Behavior program](https://eeb.msu.edu/), and will regularly include lab members who are primarily working in biology, data science, or both areas. All lab members commit to maintaining a space that can foster interdisciplinary research and learning opportunities. This includes making space for anyone to ask basic questions, challenge ideas (not people), and discuss basic assumptions and terminology, as well as conceptual frameworks, as clearly as possible.  
 
-In order to build and maintain our intended lab environment, all Smith-Vidaurre Lab members, including visitors and remote researchers, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all lab members to help ensure a safe environment for everyone in the lab. We expect lab members to follow these guidelines at any lab-related event.
+In order to build and maintain our intended lab environment, all Smith-Vidaurre (BIRDS) Lab members, including visitors and remote researchers, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all lab members to help ensure a safe environment for everyone in the lab. We expect lab members to follow these guidelines at any lab-related event.
 
 ### Code of Conduct
 
@@ -90,7 +90,7 @@ My ability to write a strong recommendation letter is contingent on your perform
 
 ### General Research Expectations
 
-In the Smith-Vidaurre Lab, we engage in research that relies on captive animal experiments and animal care, wet lab work, and computational approaches to collect, process, and analyze data. I expect all lab members to fully engage in learning the approaches and methods necessary to conduct research in the lab, ranging from caring for captive songbirds on campus, to assembling and deploying electronics technology for data collection, to learning basic molecular biology protocols as well as basic programming and data analysis skills.
+In the Smith-Vidaurre (BIRDS) Lab, we engage in research that relies on captive animal experiments and animal care, wet lab work, and computational approaches to collect, process, and analyze data. I expect all lab members to fully engage in learning the approaches and methods necessary to conduct research in the lab, ranging from caring for captive songbirds on campus, to assembling and deploying electronics technology for data collection, to learning basic molecular biology protocols as well as basic programming and data analysis skills.
 
 #### Computing Skills
 
