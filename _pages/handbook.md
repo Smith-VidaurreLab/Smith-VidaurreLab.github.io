@@ -307,6 +307,35 @@ Undergraduate students can join the lab to work on research projects or animal c
 
 Undergraduate students interested in graduate programs are encouraged to discuss their interests with their direct supervisor and Dr. Smith-Vidaurre. We can discuss the possibility of joining the lab as a graduate student, or identifying potential graduate mentors and applying to graduate programs at other institutions.
 
+## Onboarding Checklist
+
+Please complete this checklist during your first week in the lab:
+
+- Complete all MSU safety trainings that are assigned to you
+- Add your emergency contact information to the lab's resources (TKTK GSV make this on Google Drive, Smith-VidaurreLab@gmail)
+- Read the lab handbook and make notes of your suggestions and questions
+- If you are working in person, then obtain a key for Giltner Hall from the Integrative Biology Office (Natural Sciences Building, Room 203)
+- Set up a system to keep track of your time, including meetings and working hours. You can use Google Calendar or other tools, and it's ok to change this over time to a platform that works best for you
+- Add your availability to the lab scheduling spreadsheet so that Dr. Smith-Vidaurre can schedule lab meetings and individual meetings (TKTK GSV make this on Google Drive, Smith-VidaurreLab@gmail)
+- Email Dr. Smith-Vidaurre with the following information:
+  - *Lab handbook*: Are there things missing that you think could be added to the handbook? Are there areas where you think we should change our expectations as a lab? If you do not have suggestions about what to add or change, then please send me at least one question about the handbook to indicate that you have read and reflected on its contents
+  - *Recurring individual meeting*: All lab members except for undergraduates should set up a recurring individual meeting with Dr. Smith-Vidaurre for the given semester or summer. In our very first individual meeting, we will discuss our respective goals and expectations for your time in the lab, including professional development goals. Undergraduate students should set up a recurring individual meeting with their direct supervisor, and ensure that Dr. Smith-Vidaurre can attend the very first meeting. Undergraduates' direct supervisors will be in charge of scheduling periodic group meetings with Dr. Smith-Vidaurre following the first meeting
+  - *Lab calendar*: Request access to the lab calendar, which we will use to track animal care and other duties as well as vacation time across lab members
+  - *Research space access*: If you will work with the zebra finches on campus, remind Dr. Smith-Vidaurre that you need access to Food Safety & Toxicology
+- If you are new to GitHub:
+  - Make a GitHub account
+  - Download GitHub Desktop
+  - Check out this tutorial for using GitHub Desktop: TKTK
+  - Check out this tutorial for using GitHub: TKTK
+- If you do not already use a reference manager, then make a Zotero or EndNote account. Reference managers are important tools for actively reading the literature, as well as inserting citations and references for writing projects
+- Create a private GitHub repository for your electronic lab notebook and share the repository with Dr. Smith-Vidaurre (@gsvidaurre) (TKTK tutorial link)
+- Create a private GitHub repository for your annotated bibliography and share the repository with Dr. Smith-Vidaurre
+- Download at least 3 of the lab's papers that are relevant to your own research (see Dr. Smith-Vidaurre's [Google Scholar](https://scholar.google.com/citations?user=zHROeqEAAAAJ&hl=en&oi=ao) profile). Read these, and add a short paragraph per paper to your annotated bibliography
+- Make a backup plan for your laptop (ideally every week)
+
+
+TKTK need to add vacation policy to lab handbook
+
 ### Handbook Resources
 
 **Creative Commons License**
