@@ -50,7 +50,7 @@ header:
 <div>
     <h3>Alumni</h3>
     <ul>
-{% for member in site.data.people.alumni %}
+{% for member in site.data.team.alumni %}
     {% if member.url %}
 	<li><a href="{{ member.url}}" target="_blank">{{member.name}}</a>        
     {% else %}

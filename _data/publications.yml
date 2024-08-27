@@ -19,6 +19,10 @@ categories:
       links:
         - text: DOI
           url: http://doi.org/10.1098/rspb.2024.0659
+        - text: Code
+          url: https://github.com/gsvidaurre/amazon-vocal-culture
+        - text: Data
+          url: http://doi:10.5061/dryad.m905qfv6j
     - title: "ohun: an R package for diagnosing and optimizing automatic sound event detection"
       authors:
       - Marcelo Araya-Salas
@@ -47,9 +51,9 @@ categories:
       links:
         - text: DOI
           url: https://doi.org/10.1371/journal.pcbi.1011231
-        - text: Open-access code
+        - text: Code
           url: https://github.com/gsvidaurre/identity-information-post-introduction
-        - text: Open-access data
+        - text: Data
           url: https://figshare.com/articles/dataset/Smith-Vidaurre_et_al_2023_IdentityInformationEncoding/22582099
     - title: "Temporary behavioral responses to playbacks by a pest parrot and implications for management"
       authors:
@@ -77,9 +81,9 @@ categories:
       links:
         - text: DOI
           url: https://doi.org/10.1016/j.anbehav.2021.06.020
-        - text: Open-access code
+        - text: Code
           url: https://github.com/gsvidaurre/simpler-signatures-post-invasion
-        - text: Open-access data
+        - text: Data
           url: https://figshare.com/articles/dataset/Simpler_signatures_post-invasion/14811636/1
     - title: "Individual signatures outweigh social group membership in contact calls of a communally nesting parrot"
       authors:
@@ -92,9 +96,9 @@ categories:
       links:
         - text: DOI
           url: https://doi.org/10.1093/beheco/arz202
-        - text: Open-access code
+        - text: Code
           url: https://github.com/gsvidaurre/strong-individual-signatures
-        - text: Open-access data
+        - text: Data
           url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.w6m905qkg
     - title: "Social group signatures in hummingbird displays provide evidence of co-occurrence of vocal and visual learning"
       authors:
@@ -109,7 +113,7 @@ categories:
       links:
         - text: DOI
           url: https://doi.org/10.1098/rspb.2019.0666
-        - text: Open-access data
+        - text: Data
           url: https://datadryad.org/stash/dataset/doi:10.5061/dryad.gn8qf6q
     - title: "Yellow-naped Amazon (<em>Amazona auropalliata</em>) populations are markedly low and rapidly declining in Costa Rica and Nicaragua"
       authors:
@@ -146,7 +150,7 @@ categories:
       links:
         - text: DOI
           url: https://doi.org/10.1371/journal.pone.0184771
-        - text: Open-access data
+        - text: Data
           url: https://github.com/EAHobson/MX-monk-invasion
     - title: "warbleR: an R package to streamline analysis of animal acoustic signals"
       authors:
@@ -158,3 +162,7 @@ categories:
       links:
         - text: DOI
           url: https://doi.org/10.1111/2041-210X.12624
+        - text: CRAN
+          url: https://cran.r-project.org/web/packages/warbleR/index.html
+        - text: GitHub
+          url: https://marce10.github.io/warbleR/

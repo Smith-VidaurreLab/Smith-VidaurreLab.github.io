@@ -23,14 +23,14 @@ members:
     aliases:
       - Summer Eckhardt (she/her)
   - name: G. Alexandra Juárez (she/they)
-    image_path: /assets/images/team/gaj2.jpeg
+    image_path: /assets/images/team/gaj.jpeg
     title: Research Assistant
     subject: Vocal development
     interests: Singing and performing, movies and anime, hanging with family and friends
     aliases:
       - Alexandra Juárez (she/they)
   - name: Raneem Samman (he/they)
-    image_path: /assets/images/team/rs2.jpeg
+    image_path: /assets/images/team/rs.jpeg
     title: Research Assistant
     subject: Computational bioacoustics
     interests: Soccer and other sports, card and video games, cooking with friends and family
@@ -39,4 +39,5 @@ members:
 
 alumni:
   - name: Arlena (Ari) Cross
-    now: Data scientist and rising senior, Smith College
+    url: https://www.linkedin.com/in/arlena-cross-291432227/
+    now: Data scientist and psychologist, Smith College

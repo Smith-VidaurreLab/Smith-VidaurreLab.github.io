@@ -275,13 +275,13 @@ It is critical that graduate students in the lab learn how to manage their time 
 
 Graduate students are encouraged to regularly discuss their career goals with me so that I can sponsor you or connect you to opportunities for additional career development. For instance, graduate students interested in conducting postdoctoral research or pursuing research-intensive careers are encouraged to start publishing their research before their 3rd year as a student. Graduate students with these interests should also talk with me often during their last 2 years of their graduate program about how to find, consider, and pursue external postdoctoral research opportunities.
 
-##### Performance Expectations
+#### Performance Expectations
 
 As a graduate student, your performance will be evaluated by your thesis supervisor (Dr. Smith-Vidaurre) as well as your graduate committee. You need to make progress on your thesis research while also completing the minimum requirements for the graduate program to which you were accepted. I expect that graduate students begin to publish their thesis chapters in peer-reviewed journals prior to their defense, but I do not expect all of your thesis chapters to be published at the time of your defense. Following your defense, we will need to continue working together to publish your remaining thesis chapters in peer-reviewed journals.
 
 Your performance as a graduate student is tied to how quickly and how well you learn to manage your time, which will also be conditional on the source of your stipend. Unless you have won a research fellowship, your stipend will likely come from working as a graduate teaching assistant (GTA) or graduate research assistant (GA). Graduate student stipends will vary depending on the source of the funding, and the responsibilities associated with these positions will vary as well. Regardless of the source of your stipend, you will be expected to meet performance expectations and research goals each semester. If your GTA or GA responsibilities are taking up too much time, then you need to inform Dr. Smith-Vidaurre immediately.
 
-##### Research Credits and Classes
+#### Research Credits and Classes
 
 Each graduate student will be responsible for tracking their graduate degree requirements and regularly discussing their class and research credit plan with Dr. Smith-Vidaurre. Generally, newer graduate students will have a heavier class load than graduate students further along in their careers, who will primarily sign up for dissertation research credits.
 
@@ -336,14 +336,13 @@ Please complete this checklist during your first week in the lab:
 - If you haven't done so already, download at least 3 of the lab's papers that are relevant to your own research (see Dr. Smith-Vidaurre's [Google Scholar](https://scholar.google.com/citations?user=zHROeqEAAAAJ&hl=en&oi=ao) profile). Read these, and add a short paragraph per paper to your annotated bibliography
 - Make a backup plan for your laptop (ideally every week)
 
-
 TKTK need to add vacation policy to lab handbook
 
 TKTK need to also add a section about the lab bike
 
-TKTK recommendations to see a therapist 
+TKTK recommendations to see a therapist
 
-### Handbook Resources
+## Handbook Resources
 
 **Creative Commons License**
 
@@ -356,16 +355,16 @@ Please cite this lab handbook if you found it useful for your own lab:
 Smith-Vidaurre (BIRDS) Lab Manual. 2024. https://Smith-VidaurreLab.github.io/handbook/. Licensed under a [Creative Commons Attribution - Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
-**Lab Handbook Resources:**
+**General Resources:**
 
 The [Aly Lab](https://github.com/alylab/labmanual), [Larremore Lab](https://larremorelab.github.io/manual/), and [Roberts Lab](https://robertslab.github.io/resources/) handbooks were useful guides for structure and content, as well as lab handbook resources made available by [Tendler et al 2022](https://zenodo.org/records/7419211). Some of the mentoring guidelines and expectations above were inspired by the University of Michigan Rackham Graduate School [resources on mentoring](https://rackham.umich.edu/faculty-and-staff/facilitating-academic-success/mentoring-advising/). The code of conduct above was modified from [Titus Brown's Code of Conduct](http://ivory.idyll.org/lab/coc.html).
 
 **References**
 
-Aly Lab Manual. 2024. https://github.com/alylab/labmanual. Licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+1. Aly Lab Manual. 2024. https://github.com/alylab/labmanual. Licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-Larremore Lab Manual. 2024. https://larremorelab.github.io/manual/.
+2. Larremore Lab Manual. 2024. https://larremorelab.github.io/manual/.
 
-Roberts Lab Manual. 2024. https://robertslab.github.io/resources/.
+3. Roberts Lab Manual. 2024. https://robertslab.github.io/resources/.
 
-Original source and credit for Code of Conduct: http://2012.jsconf.us/#/about & The Ada Initiative. Please help by translating or improving: http://github.com/leftlogic/confcodeofconduct.com. This work is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en).
+4. Original source and credit for Code of Conduct: http://2012.jsconf.us/#/about & The Ada Initiative. Please help by translating or improving: http://github.com/leftlogic/confcodeofconduct.com. This work is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en).
