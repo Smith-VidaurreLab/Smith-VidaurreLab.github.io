@@ -1,5 +1,11 @@
 categories:
-  - heading: "Accepted or In Press"
+#  - heading: "Accepted or In Press"
+#    pubs:
+#    - title:
+#      authors:
+#      year:
+#      venue:
+  - heading: "Published"
     pubs:
     - title: "Widespread cultural change in declining populations of Amazon parrots"
       authors:
@@ -9,8 +15,10 @@ categories:
       - Timothy F. Wright
       year: 2024
       venue: Proceedings of the Royal Society B
-  - heading: "Published"
-    pubs:
+      volumeissue: "29120240659"
+      links:
+        - text: DOI
+          url: http://doi.org/10.1098/rspb.2024.0659
     - title: "ohun: an R package for diagnosing and optimizing automatic sound event detection"
       authors:
       - Marcelo Araya-Salas

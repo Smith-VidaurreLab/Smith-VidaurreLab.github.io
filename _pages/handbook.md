@@ -97,11 +97,11 @@ As the lab works on computational analyses of different types of behavioral, mol
 
 #### Lab Notebooks and Reproducible Research
 
-**Lab notebooks are another requirement for all lab members**. Everyone who is working on any research project in the lab is required to maintain an electronic lab notebook that they update in *real time*. See this tutorial for how to create an [electronic lab notebook](https://sr320.github.io/course-fish521-2023/lectures/week_07/lec_06b_websites.html) on GitHub.
+**Lab notebooks are another requirement for all lab members**. Everyone who is working on any research project in the lab is required to maintain an electronic lab notebook that they update in *real time*. Your electronic lab notebook should be one or several Markdown files that you maintain in a private GitHub repository shared with Dr. Smith-Vidaurre (see lab onboarding checklist for tutorials).
 
 Lab members who are conducting wet lab work or work with animals will be required to keep a physical lab notebook, and to regularly update their electronic lab notebook with photographs of their physical notebook as well. Across lab notebooks, each lab member should document what they have done in a manner such that someone else could replicate the work that you have done.
 
-The standard practice in the lab will be to document your daily activities in a publicly visible electronic lab notebook, which will serve as a log of what you have worked on over time. This standard practice means that you must allocate time to update your lab notebook during each working session, and to back-up your notebook regularly. For instance, if your day was focused on reading papers, document the titles of the papers that you read (and add a link to your annotated bibliography, see below). If your day was focused on scanning the Internet to troubleshoot code or hardware issues, document the websites that you visited and your troubleshooting steps. On days when you worked on code development or data analysis, you should note what you did and the GitHub repository where you conducted the work. When you spent the day working on animal care or setting up experiments, make note of this, and upload images or scans of your more detailed notes from your physical notebook. Regardless of what you did on any one day, you should document your general steps, all details necessary for someone to reproduce your work > 5 years down the line (links, mistakes or variations on a protocol, etc), and what needs to be done next.
+The standard practice in the lab will be to document your daily activities in a private electronic lab notebook, which will serve as a log of what you have worked on over time. This standard practice means that you must allocate time to update your lab notebook during each working session, and to back-up your notebook regularly. For instance, if your day was focused on reading papers, document the titles of the papers that you read (and add a link to your annotated bibliography, see below). If your day was focused on scanning the Internet to troubleshoot code or hardware issues, document the websites that you visited and your troubleshooting steps. On days when you worked on code development or data analysis, you should note what you did and the GitHub repository where you conducted the work. When you spent the day working on animal care or setting up experiments, make note of this, and upload images or scans of your more detailed notes from your physical notebook. Regardless of what you did on any one day, you should document your general steps, all details necessary for someone to reproduce your work > 5 years down the line (links, mistakes or variations on a protocol, etc), and what needs to be done next.
 
 All lab notebooks need to have an immediate backup, which you can create by updating a text file on your computer that you push to GitHub each day, among other options. Each lab notebook needs to have entries that are organized by date in reverse chronological order.
 
@@ -125,7 +125,7 @@ Undergraduate students are not expected to build a daily writing habit, but they
 
 ##### Reading and Annotated Bibliographies
 
-**Maintaining and regularly updating an annotated bibliography** is another research expectation across lab members. Reading papers from the literature and taking notes in an annotated bibliography is an important part of the writing process. Lab members should create a public repository on GitHub that holds their annotated bibliography in a single file or across files. Annotated bibliographies should be kept in the form of an RMarkdown document(s) with headers to organize papers by general topic, and you should link to your annotated bibliography in your electronic lab notebook whenever you read for a given project.
+**Maintaining and regularly updating an annotated bibliography** is another research expectation across lab members. Reading papers from the literature and taking notes in an annotated bibliography is an important part of the writing process. Lab members should create a private repository on GitHub shared with Dr. Smith-Vidaurre that holds their annotated bibliography in a single file or across files. Annotated bibliographies should be kept in the form of an RMarkdown document(s) with headers to organize papers by general topic, and you should link to your annotated bibliography in your electronic lab notebook whenever you read for a given project.
 
 Similar to electronic lab notebooks, annotated bibliographies will also be checked randomly during the first 2-3 months that someone is new to the lab, and possibly beyond. Anyone who does not follow these general expectations for maintaining an annotated bibliography will receive a warning and then can be removed from working on a project if they continue to fail to meet these expectations.
 
@@ -181,7 +181,7 @@ These meetings will occur with different frequencies, with the purpose of provid
 
 - **Biweekly Lab Meetings** (1.5 hours): These meetings will typically be focused around discussing research updates from each lab member and their planned activities for the next two weeks. We will also periodically use these lab meetings to discuss research papers published by other groups, or for professional development activities for the lab.
 
-- **Monthly Diversity, Equity, and Inclusion Meetings** (1.5 hours): This monthly meeting will be dedicated to discussing how we can continue to build and sustain an anti-racist lab and a safe space for queer scientists. We will also discuss how we can contribute to making the lab, our departmental community, and the broader scientific community more diverse, equitable, inclusive, and just spaces. These meetings will be particularly focused on broadening lab members' understanding of how we can take action against systemic oppression in academia, and encouraging lab members to engage in their own process of self-education about the many barriers associated with different forms of oppression.
+- **Bimonthly Diversity, Equity, and Inclusion Meetings** (1.5 hours): This bimonthly meeting will be dedicated to discussing how we can continue to build and sustain an anti-racist lab and a safe space for queer scientists. We will also discuss how we can contribute to making the lab, our departmental community, and the broader scientific community more diverse, equitable, inclusive, and just spaces. These meetings will be particularly focused on broadening lab members' understanding of how we can take action against systemic oppression in academia, and encouraging lab members to engage in their own process of self-education about the many barriers associated with different forms of oppression.
 
 - **Weekly Writing Group** (2 hours): We will meet each week for focused writing time as a team. Each lab member will bring one or multiple writing projects* that require steady progress. At the beginning of each meeting, we will each state the project that we are working on and our goal for the current writing session (up to 15 minutes). Everyone will work on their writing project(s) without interrupting others for ~1.5 hours, and then we will catch up about writing progress and obstacles in the last 15 minutes. Breaks will be encouraged for those who prefer to focus for short spurts rather than the full 1.5 hours. Depending on the lab's preferences, visitors from other labs at MSU may be invited to join us for this writing group.
 
@@ -312,29 +312,36 @@ Undergraduate students interested in graduate programs are encouraged to discuss
 Please complete this checklist during your first week in the lab:
 
 - Complete all MSU safety trainings that are assigned to you
-- Add your emergency contact information to the lab's resources (TKTK GSV make this on Google Drive, Smith-VidaurreLab@gmail)
+- Set up your official MSU email if you haven't already
 - Read the lab handbook and make notes of your suggestions and questions
 - If you are working in person, then obtain a key for Giltner Hall from the Integrative Biology Office (Natural Sciences Building, Room 203)
 - Set up a system to keep track of your time, including meetings and working hours. You can use Google Calendar or other tools, and it's ok to change this over time to a platform that works best for you
-- Add your availability to the lab scheduling spreadsheet so that Dr. Smith-Vidaurre can schedule lab meetings and individual meetings (TKTK GSV make this on Google Drive, Smith-VidaurreLab@gmail)
 - Email Dr. Smith-Vidaurre with the following information:
   - *Lab handbook*: Are there things missing that you think could be added to the handbook? Are there areas where you think we should change our expectations as a lab? If you do not have suggestions about what to add or change, then please send me at least one question about the handbook to indicate that you have read and reflected on its contents
   - *Recurring individual meeting*: All lab members except for undergraduates should set up a recurring individual meeting with Dr. Smith-Vidaurre for the given semester or summer. In our very first individual meeting, we will discuss our respective goals and expectations for your time in the lab, including professional development goals. Undergraduate students should set up a recurring individual meeting with their direct supervisor, and ensure that Dr. Smith-Vidaurre can attend the very first meeting. Undergraduates' direct supervisors will be in charge of scheduling periodic group meetings with Dr. Smith-Vidaurre following the first meeting
   - *Lab calendar*: Request access to the lab calendar, which we will use to track animal care and other duties as well as vacation time across lab members
+  - *Lab spreadsheet access*: Request access to the lab emergency contacts and scheduling spreadsheets
   - *Research space access*: If you will work with the zebra finches on campus, remind Dr. Smith-Vidaurre that you need access to Food Safety & Toxicology
+- Add your emergency contact information to the lab's resources
+- Add your availability to the lab scheduling spreadsheet so that Dr. Smith-Vidaurre can schedule lab meetings and individual meetings
 - If you are new to GitHub:
-  - Make a GitHub account
-  - Download GitHub Desktop
-  - Check out this tutorial for using GitHub Desktop: TKTK
-  - Check out this tutorial for using GitHub: TKTK
-- If you do not already use a reference manager, then make a Zotero or EndNote account. Reference managers are important tools for actively reading the literature, as well as inserting citations and references for writing projects
-- Create a private GitHub repository for your electronic lab notebook and share the repository with Dr. Smith-Vidaurre (@gsvidaurre) (TKTK tutorial link)
-- Create a private GitHub repository for your annotated bibliography and share the repository with Dr. Smith-Vidaurre
-- Download at least 3 of the lab's papers that are relevant to your own research (see Dr. Smith-Vidaurre's [Google Scholar](https://scholar.google.com/citations?user=zHROeqEAAAAJ&hl=en&oi=ao) profile). Read these, and add a short paragraph per paper to your annotated bibliography
+  - Make a free GitHub account using the steps in this [tutorial](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) to set up 2-factor authentication (through Part 1 Step 4)
+  - Download [GitHub Desktop](https://desktop.github.com/download/)
+  - Check out this tutorial for using [GitHub Desktop](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop) and making your [first repository](https://docs.github.com/en/desktop/overview/creating-your-first-repository-using-github-desktop)
+  - Complete this tutorial to learn the [basics of using GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world), including how to commit, pull, push, create branches, and review pull requests
+- If you do not already use a reference manager, then make a [Zotero](https://www.zotero.org/) (recommended) or [EndNote](https://libguides.lib.msu.edu/endnote) account. Reference managers are important tools for actively reading the literature, as well as inserting citations and references for writing projects
+- If you are new to using R, RStudio, and R Markdown files, then check out the following Software Carpentry [tutorial](https://swcarpentry.github.io/r-novice-gapminder/aio.html). You should read and complete the "Summary and Setup" overview, and section 1 "Introduction to R and RStudio", as well as the subsections "Data analysis reports", "Creating an R Markdown file" and "Basic components of R Markdown" in section 14 "Producing Reports with knitr"
+- Create a private GitHub repository for your electronic lab notebook in an R Markdown file and share the repository with Dr. Smith-Vidaurre (@gsvidaurre).
+- Create a private GitHub repository for your annotated bibliography in an R Markdown file and share the repository with Dr. Smith-Vidaurre
+- If you haven't done so already, download at least 3 of the lab's papers that are relevant to your own research (see Dr. Smith-Vidaurre's [Google Scholar](https://scholar.google.com/citations?user=zHROeqEAAAAJ&hl=en&oi=ao) profile). Read these, and add a short paragraph per paper to your annotated bibliography
 - Make a backup plan for your laptop (ideally every week)
 
 
 TKTK need to add vacation policy to lab handbook
+
+TKTK need to also add a section about the lab bike
+
+TKTK recommendations to see a therapist 
 
 ### Handbook Resources
 

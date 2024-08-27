@@ -19,27 +19,27 @@ $active-color: #1a730d; // TOC header color
 
 figure {
     display: inline-block;
-    //border: 1px dotted gray;
-    margin: 0px 15px 0px 0px;
+    text-align: center;
+    vertical-align: top;
+    width: 220px;
+    margin: 20px 20px 20px 20px;
 }
 figure img {
-    vertical-align: top;
-    // increasing the margin from 0 will push last image in the first row of 4 images down
-    // so 5 images are arranged into a row of 3 and one row of 1 
-    margin: 15px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 figure figcaption {
-    //border: 1px dotted blue;
-    text-align: center;
     margin-bottom: 1em;
-
+    margin-left: auto;
+    margin-right: auto;
+}
+figure subcaption {
+    display: block;
+    font-size: 15px;
 }
 img.thumb {
 	width: 200px;
-  //height: 300px;
-  //display: block;
-  //margin-left: auto;
-  //margin-right: auto;
-  //width: 15%;
-  //height: 15%;
+  margin-left: auto;
+  margin-right: auto;
 }
