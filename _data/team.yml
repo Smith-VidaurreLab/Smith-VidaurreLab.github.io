@@ -4,7 +4,7 @@ members:
     image_path: /assets/images/team/gsv.JPG
     title: Principal Investigator
     subject: 1855 Assistant Professor
-    interests: Knitting, cycling, rockhounding, reading, kayaking
+    interests: Knitting, cycling, family adventures, rockhounding, reading, exploring new foods
     aliases:
       - Grace Smith-Vidaurre (she/her)
   - name: Dr. Brittany Coppinger (she/her)
@@ -29,13 +29,13 @@ members:
     interests: Singing and performing, movies and anime, hanging with family and friends
     aliases:
       - Alexandra Juárez (she/they)
-  - name: Raneem Samman (he/they)
+  - name: Raneem Samman (t/he/y)
     image_path: /assets/images/team/rs.jpeg
     title: Research Assistant
     subject: Computational bioacoustics
     interests: Soccer and other sports, card and video games, cooking with friends and family
     aliases:
-      - Raneem Samman (he/they)
+      - Raneem Samman (t/he/y)
 
 alumni:
   - name: Arlena (Ari) Cross
