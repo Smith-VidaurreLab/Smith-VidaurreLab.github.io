@@ -4,35 +4,35 @@ members:
     image_path: /assets/images/team/gsv.JPG
     title: Principal Investigator
     subject: 1855 Assistant Professor
-    interests: Knitting, cycling, family adventures, rockhounding, reading, exploring new foods
+    interests: Knitting, cycling, family adventures, rockhounding, reading, exploring new cuisine
     aliases:
       - Grace Smith-Vidaurre (she/her)
   - name: Dr. Brittany Coppinger (she/her)
     url: https://brittanycoppinger.weebly.com/
     image_path: /assets/images/team/bac.jpg
     title: Postdoctoral Researcher
-    subject: Computational bioacoustics
+    subject: Computational Bioacoustics
     interests: Reading, crocheting, playing with my dog
     aliases:
       - Dr. Brittany A. Coppinger (she/her)
   - name: Summer Eckhardt (she/her)
     image_path: /assets/images/team/sge.jpg
     title: Graduate Student
-    subject: Vocal recognition
+    subject: Vocal Recognition
     interests: Baking bread and desserts, yoga, hiking and exploring, birding, gardening, trying new food
     aliases:
       - Summer Eckhardt (she/her)
   - name: G. Alexandra Juárez (she/they)
     image_path: /assets/images/team/gaj.jpeg
     title: Research Assistant
-    subject: Vocal development
+    subject: Vocal Development
     interests: Singing and performing, movies and anime, hanging with family and friends
     aliases:
       - Alexandra Juárez (she/they)
   - name: Raneem Samman (t/he/y)
     image_path: /assets/images/team/rs.jpeg
     title: Research Assistant
-    subject: Computational bioacoustics
+    subject: Computational Bioacoustics
     interests: Soccer and other sports, card and video games, cooking with friends and family
     aliases:
       - Raneem Samman (t/he/y)
