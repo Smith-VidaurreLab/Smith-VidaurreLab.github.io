@@ -384,7 +384,7 @@ Please complete this checklist during your first week in the lab:
 
 **Citation**
 
-Please cite this lab handbook if you found it useful for your own lab:
+Please cite this handbook if you found it useful for your own lab:
 
 Smith-Vidaurre (BIRDS) Lab Manual. 2024. https://Smith-VidaurreLab.github.io/handbook/. Licensed under a [Creative Commons Attribution - Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
