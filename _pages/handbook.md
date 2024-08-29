@@ -14,7 +14,7 @@ Welcome to the lab handbook for the Smith-Vidaurre Lab, or the Behavior IntegRat
 
 ### Our Primary Research
 
-**We commit to a shared goal of conducting creative, rigorous, and accessible science**. In order to meet this goal, we are dedicated to building and maintaining an inclusive lab culture that supports and respects scientists from diverse backgrounds with varied interests and career goals. As a lab, we commit to sustaining an anti-racist working culture, a safe space for members of the queer community, as well as scientists whose identities and experiences reflect other axes of human diversity, such as disability, citizenship status, and socioenconmic status. We also commit to maintaining a lab environment that is positive, engaging, rewarding, and constructive. We value high-quality, careful science over rushed and careless work.
+**We commit to a shared goal of conducting creative, rigorous, and accessible science**. In order to meet this goal, we are dedicated to building and maintaining an inclusive lab culture that supports and respects scientists from diverse backgrounds with varied interests and career goals. As a lab, we commit to sustaining an anti-racist working culture, a safe space for members of the queer community, as well as scientists whose identities and experiences reflect many other axes of human diversity, such as disability, citizenship status, and socioenconmic status. We also commit to maintaining a lab environment that is positive, engaging, rewarding, and constructive. We value high-quality, careful science over rushed and careless work.
 
 Our lab is focused on three primary research areas:
 

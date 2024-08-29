@@ -5,24 +5,27 @@ classes: wide
 toc: no
 ---
 
-I am currently recruiting 1-2 graduate students to join the lab in Fall 2025. I am also recruiting undergraduate students who can join the lab in Fall 2024 or 2025. I am looking for driven individuals from diverse backgrounds and identities who can fill these different positions in my lab.
+I am currently recruiting 1-2 graduate students to join the lab in Fall 2025. I am also recruiting undergraduate students who can join the lab in Spring 2025. I am looking for curious, driven individuals who are interested in research experience at the intersection of biology and data science, as well as undergraduate students interested in research and animal care experience. I welcome prospective students from diverse backgrounds and identities, including people of color, 2SLGBTQIA+ individuals, disabled people, caregivers, first-generation degree holders, and others.
 
 The lab may be a good fit if you:
 
-- Are interested in how animals use learned vocalizations to communicate with others
+- Are interested in:
+  - Learning how animals use learned vocalizations to communicate with others
+  - Applying data science skills to address biological questions
+  - Obtaining hands-on experience useful for careers in biological research or applied data science, including research software development
 - Have experience in any of the following areas:
 - Experiments or animal care with captive birds or other species
   - Computational approaches to analyze large datasets
   - Programming in Python, command line, R, or other languages
   - Basic wet lab techniques in molecular biology
   - Neuroanatomical microdissections
-  - Developing mathematical or agent-based models to test ideas
+  - Developing agent-based models or mathematical models to test ideas
 - Enjoy learning new methods to analyze large datasets, developing open-source software, or developing new hardware tools with open electronics (Raspberry Pi)
 - Enjoy brainstorming new ideas with people from different areas of expertise
 
 ## What will you learn after joining the lab?
 
-Students and postdocs in the lab who are interested in conducting research will have opportunities to learn a wide variety of skill sets. These skills include computational and quantitative skills, coding skills in different programming languages, basic molecular biology skills, open-source methods development, scientific writing and communication, as well as how to brainstorm ideas, and how to lead or support projects as part of an interdisciplinary research group. For students with a veterinary, animal science, or animal welfare focus who are interested in gaining experience with captive animal care, there will be opportunities to help the lab maintain and conduct research with a colony of captive songbirds on campus.
+Students and postdocs in the lab who are interested in conducting research will have opportunities to learn a wide variety of skill sets. These skills include computational and quantitative skills, coding skills in different programming languages, basic molecular biology skills, open-source research software development, scientific writing and communication, as well as how to brainstorm ideas, and how to lead or support projects as part of an interdisciplinary research group. For students with a veterinary, animal science, or animal welfare focus who are interested in gaining experience with captive animal care, there will be opportunities to help the lab maintain and conduct research with a colony of captive songbirds on campus.
 
 ## Lab recruitment forms
 
