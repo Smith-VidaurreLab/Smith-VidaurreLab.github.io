@@ -20,7 +20,7 @@ Our lab is focused on three primary research areas:
 
 - How do animals use socially learned vocalizations? This research is currently focused on information encoding and recognition of individual identity and social affiliations. Our work relies on empirical research with parrots and songbirds, and also leverages simulation and modeling approaches.
 
-- How do animals' early-life environments can shape the learned vocalizations that they produce as adults, as well as the brain regions necessary for learned vocal production? This work relies on empirical research with songbirds and may also use modeling approaches.
+- How do animals' early-life environments shape the learned vocalizations that they produce as adults, as well as the brain regions necessary for learned vocal production? This work relies on empirical research with songbirds and may also use modeling approaches.
 
 - The lab integrates data science approaches across projects that fall under the two lines of research above. We develop and test computational pipelines for collecting and analyzing empirical or simulated datasets. We engage in open-access methods development and are committed to data science training for lab members, as well as disseminating data science skills to students in the local and broader STEM community.
 
