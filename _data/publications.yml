@@ -1,10 +1,43 @@
 categories:
-#  - heading: "Accepted or In Press"
-#    pubs:
-#    - title:
-#      authors:
-#      year:
-#      venue:
+  - heading: "Submitted or Under Review"
+    pubs:
+    - title: "Bioacoustic fundamental frequency estimation: a cross-species dataset and deep learning baseline"
+      authors:
+      - Paul Best
+      - Marcelo Araya-Salas
+      - Axel G. Ekström
+      - Bárbara Freitas
+      - Frants H. Jensen
+      - Arik Kershenbaum
+      - Adriano R. Lameira
+      - Kenna D. S. Lehmann
+      - Pavel Linhart
+      - Robert C. Liu
+      - Malavika Madhavan
+      - Andrew Markham
+      - Marie A. Roch
+      - Holly Root-Gutteridge
+      - Martin Sálek
+      - Grace Smith-Vidaurre
+      - Ariana Strandburg-Peshkin
+      - Megan R. Warren
+      - Matthew Wijers
+      - Ricard Marxer
+      year: 2024
+      venue: Submitted
+  - heading: "Preprints"
+    pubs:
+    - title: Automated tracking of avian parental care behavior
+      authors:
+      - Grace Smith-Vidaurre
+      - Tania Molina
+      - Erich D. Jarvis
+      - Elizabeth A. Hobson
+      year: 2023
+      venue: EcoEvoRxiv
+      links:
+        - text: DOI
+          url: https://doi.org/10.32942/X2Z60C
   - heading: "Published"
     pubs:
     - title: "Widespread cultural change in declining populations of Amazon parrots"
