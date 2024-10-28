@@ -22,13 +22,13 @@ members:
     interests: Baking bread and desserts, yoga, hiking and exploring, birding, gardening, trying new food
     aliases:
       - Summer Eckhardt (she/her)
-- name: Madison Honore (she/her)
-  image_path: /assets/images/team/mh.jpg
-  title: Rotation Student
-  subject: Applied Data Science
-  interests: Sewing and craft projects
-  aliases:
-    - Madison Honore (she/her)
+  - name: Madison Honore (she/her)
+    image_path: /assets/images/team/mh.jpg
+    title: Rotation Student
+    subject: Applied Data Science
+    interests: Sewing and craft projects
+    aliases:
+      - Madison Honore (she/her)
   - name: G. Alexandra Juárez (she/they)
     image_path: /assets/images/team/gaj.jpeg
     title: Research Assistant
