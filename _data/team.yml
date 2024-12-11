@@ -17,18 +17,11 @@ members:
       - Dr. Brittany A. Coppinger (she/her)
   - name: Summer Eckhardt (she/her)
     image_path: /assets/images/team/sge.jpg
-    title: Graduate Student
+    title: PhD Student
     subject: Vocal Recognition
     interests: Baking bread and desserts, yoga, hiking and exploring, birding, gardening, trying new food
     aliases:
       - Summer Eckhardt (she/her)
-  - name: Madison Honore (she/her)
-    image_path: /assets/images/team/mh.jpg
-    title: Rotation Student
-    subject: Applied Data Science
-    interests: Sewing and craft projects
-    aliases:
-      - Madison Honore (she/her)
   - name: G. Alexandra Juárez (she/they)
     image_path: /assets/images/team/gaj.jpeg
     title: Research Assistant
@@ -44,7 +37,9 @@ members:
     aliases:
       - Raneem Samman (they/them)
 
-alumni:
+alumni and past lab affiliates:
   - name: Arlena (Ari) Cross
     url: https://www.linkedin.com/in/arlena-cross-291432227/
     now: Data scientist and psychologist, Smith College
+  - name: Madison Honore
+    now: Masters in Data Science Graduate Student
